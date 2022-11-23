@@ -4505,8 +4505,6 @@ int yyparse()
 #endif
 {
 
-    printf("yyparse start\n");
-
     int yystate;
     int yyn;
     int yyresult;
