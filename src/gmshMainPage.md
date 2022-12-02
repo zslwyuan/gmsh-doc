@@ -3,6 +3,8 @@
 This is the project used to show the mechanism of gmsh.
 It can be regarded as a guide to read the source code of gmsh.
 
+I tend to use Doxygen to visualize the overall interaction between functions (just like the BFS algorithm) and use GDB to trace the call stack of the functions (just like the DFS algorithm).
+
 **How a geo file is loaded into gmsh**
 
 main() 
@@ -32,3 +34,18 @@ GEO_Internals::addVolume() &emsp;
 GEO_Internals::addDiscreteSurface(); &emsp; <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp; ->  GModel::current() -> GModel::getGEOInternals() -> GEO_Internals::synchronize() this function will synchronize the elements in GEO_Internals with the entities in GModel (from GEO types to gmsh types) <br/>
 &emsp;&emsp;&emsp;->GModel::current()->mesh() this function will mesh the model
+
+**How a GModel get meshed**
+main() 
+&emsp;-> GmshMainBatch()   <br/>
+&emsp;&emsp;-> GmshBatch()   <br/>
+&emsp;&emsp;&emsp;-> GModel::mesh()   <br/>
+&emsp;&emsp;&emsp;&emsp;-> GenerateMesh()   <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> SetOrder1()  this function reset high-order elements to elements with the order of 1<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> FixPeriodicMesh() don't know its usage temporarily<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh0D() which initializes the mesh vertexes for later processing  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh1D() which mainly meshes the GEdge  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Gedge::mesh() which mainly meshes the GEdges  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedge::operator()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedgeProcessing()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Integration() and RecursiveIntegration() which will utilize bi-section approaches to mesh GEdge based on given constraints, such as mesh size, and the integration can be regarded as side products. <br/>
