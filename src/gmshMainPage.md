@@ -49,3 +49,7 @@ main()
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedge::operator()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedgeProcessing()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Integration() and RecursiveIntegration() which will utilize bi-section approaches to mesh GEdge based on given constraints, such as mesh size, and the integration can be regarded as side products. <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh2D() which mainly meshes the GFace  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> GFace::mesh() which mainly meshes the GFaces  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGenerator()  <br/>
