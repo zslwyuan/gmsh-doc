@@ -56,3 +56,4 @@ main()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator()() which can define the mesh algorithm (default: Frontal-Delaunay) <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGenerator()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->GFaceInitialMesh() which splits a face into delaunay triangles  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->algoDelaunay2D() which splits a face into delaunay triangles  <br/>
