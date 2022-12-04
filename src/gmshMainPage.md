@@ -50,7 +50,7 @@ main()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> GEdge::mesh() which mainly meshes the GEdges  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGEdge::operator()()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGEdgeProcessing()  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Integration() and RecursiveIntegration() which will utilize bi-section approaches to mesh GEdge based on given constraints, such as mesh size, and the integration can be regarded as side products. <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Integration() and RecursiveIntegration() which will utilize bi-section approaches to mesh GEdge based on given constraints, such as mesh size (!! "lc" in the code means characteristic length or mesh size ), and the integration can be regarded as side products. <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh2D() which mainly meshes the GFace  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> GFace::mesh() which mainly meshes the GFaces  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator()() which can define the mesh algorithm (default: Frontal-Delaunay) <br/>
