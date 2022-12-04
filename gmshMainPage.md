@@ -10,6 +10,7 @@ I tend to use Doxygen to visualize the overall interaction between functions (ju
 main() 
 &emsp;-> GmshMainBatch()   <br/>
 &emsp;&emsp;-> GmshBatch()   <br/>
+&emsp;&emsp;-> GmshInitialize() which resets all the parameters to defaul values<br/>
 &emsp;&emsp;&emsp;-> OpenProject() which will load the input file  <br/>
 &emsp;&emsp;&emsp;&emsp;-> GModel::readGEO()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;-> ParseFile()  <br/>
@@ -36,7 +37,8 @@ GEO_Internals::addDiscreteSurface(); &emsp; <br/>
 &emsp;&emsp;&emsp;->GModel::current()->mesh() this function will mesh the model
 
 **How a GModel get meshed**
-main() 
+
+main()  <br/>
 &emsp;-> GmshMainBatch()   <br/>
 &emsp;&emsp;-> GmshBatch()   <br/>
 &emsp;&emsp;&emsp;-> GModel::mesh()   <br/>
