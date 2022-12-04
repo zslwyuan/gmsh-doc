@@ -7,7 +7,7 @@ I tend to use Doxygen to visualize the overall interaction between functions (ju
 
 **How a geo file is loaded into gmsh**
 
-main() 
+main()   <br/>
 &emsp;-> GmshMainBatch()   <br/>
 &emsp;&emsp;-> GmshBatch()   <br/>
 &emsp;&emsp;-> GmshInitialize() which resets all the parameters to defaul values<br/>
