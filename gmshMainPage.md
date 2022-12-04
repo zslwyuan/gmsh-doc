@@ -45,12 +45,12 @@ main()
 &emsp;&emsp;&emsp;&emsp;&emsp;-> FixPeriodicMesh() don't know its usage temporarily<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh0D() which initializes the mesh vertexes for later processing  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh1D() which mainly meshes the GEdge  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Gedge::mesh() which mainly meshes the GEdges  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedge::operator()  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGedgeProcessing()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> GEdge::mesh() which mainly meshes the GEdges  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGEdge::operator()()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGEdgeProcessing()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Integration() and RecursiveIntegration() which will utilize bi-section approaches to mesh GEdge based on given constraints, such as mesh size, and the integration can be regarded as side products. <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh2D() which mainly meshes the GFace  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> GFace::mesh() which mainly meshes the GFaces  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator() which can define the mesh algorithm (default: Frontal-Delaunay) <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator()() which can define the mesh algorithm (default: Frontal-Delaunay) <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGenerator()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->GFaceInitialMesh() which splits a face into delaunay triangles  <br/>
