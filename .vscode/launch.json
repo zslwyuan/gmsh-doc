@@ -11,7 +11,7 @@
             "program": "/home/zslwyuan-laptop/Softwares/gmsh-4.11.0-source/build/gmsh",
             "args": [
                 "../tutorials/t5.geo",
-                "-2"
+                "-3"
             ],
             "stopAtEntry": false,
             "cwd": "/home/zslwyuan-laptop/Softwares/gmsh-4.11.0-source/build",

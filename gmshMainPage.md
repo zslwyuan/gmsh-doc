@@ -36,7 +36,7 @@ GEO_Internals::addDiscreteSurface(); &emsp; <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp; ->  GModel::current() -> GModel::getGEOInternals() -> GEO_Internals::synchronize() this function will synchronize the elements in GEO_Internals with the entities in GModel (from GEO types to gmsh types) <br/>
 &emsp;&emsp;&emsp;->GModel::current()->mesh() this function will mesh the model
 
-**How a GModel get meshed**
+**How a GModel get meshed in 0D/1D/2D**
 
 main()  <br/>
 &emsp;-> GmshMainBatch()   <br/>
@@ -57,3 +57,14 @@ main()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGenerator()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->GFaceInitialMesh() which splits a face into delaunay triangles  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->bowyerWatson() and bowyerWatsonFrontal() which splits a face into delaunay triangles  <br/>
+
+**How a GModel get meshed in 3D**
+
+main()  <br/>
+&emsp;-> GmshMainBatch()   <br/>
+&emsp;&emsp;-> GmshBatch()   <br/>
+&emsp;&emsp;&emsp;-> GModel::mesh()   <br/>
+&emsp;&emsp;&emsp;&emsp;-> GenerateMesh()   <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;-> Mesh3D() which mainly meshes the GRegion  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> MeshDelaunayVolume()  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> insertVerticesInRegion() maybe refer to : https://www.kiv.zcu.cz/site/documents/verejne/vyzkum/publikace/technicke-zpravy/2002/tr-2002-02.pdf <br/>
