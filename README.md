@@ -56,7 +56,7 @@ main()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGFace::operator()() which can define the mesh algorithm (default: Frontal-Delaunay) <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> meshGenerator()  <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->GFaceInitialMesh() which splits a face into delaunay triangles  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->bowyerWatson() and bowyerWatsonFrontal() which splits a face into delaunay triangles  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;->bowyerWatson() and bowyerWatsonFrontal() which splits a face into delaunay triangles maybe refer to:  https://www.bilibili.com/video/BV1QB4y1S7RK/?share_source=copy_web&vd_source=acff9de7d590c26061bcce92dfc8206d  <br/>
 
 **How a GModel get meshed in 3D**
 
