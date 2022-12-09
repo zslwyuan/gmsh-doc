@@ -873,9 +873,8 @@ RECURSIVE              = YES
 # Note that relative paths are relative to the directory from which doxygen is
 # run.
 
-EXCLUDE                = ./build 
-                         ./doc
-                        ./contrib 
+EXCLUDE                =  ./doc/*
+                        ./contrib/*
                         ./doxygenFiles
                         ./contrib
                         ./examples
