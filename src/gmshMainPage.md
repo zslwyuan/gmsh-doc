@@ -5,6 +5,8 @@ It can be regarded as a guide to read the source code of gmsh.
 
 I tend to use Doxygen to visualize the overall interaction between functions (just like the BFS algorithm) and use GDB to trace the call stack of the functions (just like the DFS algorithm).
 
+The Doxygen documentation is available here (https://zslwyuan.github.io/gmsh-doc/).
+
 **Gmsh's data structures**
 
 The geometry module is based on a model class (GModel), and abstract entity classes for geometrical points (GVertex), curves (GEdge), surfaces (GFace) and volumes (GRegion). Concrete implementations of these classes are provided for each supported CAD kernel (e.g. gmshVertex for points in Gmsh’s built-in CAD kernel, or OCCVertex for points from OpenCASCADE). All these elementary model entities derive from GEntity. Physical groups are simply stored as integer tags in the entities.
