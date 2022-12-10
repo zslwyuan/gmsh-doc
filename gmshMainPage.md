@@ -5,6 +5,12 @@ It can be regarded as a guide to read the source code of gmsh.
 
 I tend to use Doxygen to visualize the overall interaction between functions (just like the BFS algorithm) and use GDB to trace the call stack of the functions (just like the DFS algorithm).
 
+**Gmsh's data structures**
+
+The geometry module is based on a model class (GModel), and abstract entity classes for geometrical points (GVertex), curves (GEdge), surfaces (GFace) and volumes (GRegion). Concrete implementations of these classes are provided for each supported CAD kernel (e.g. gmshVertex for points in Gmsh’s built-in CAD kernel, or OCCVertex for points from OpenCASCADE). All these elementary model entities derive from GEntity. Physical groups are simply stored as integer tags in the entities.
+
+A mesh is composed of elements: mesh points (MPoint), lines (MLine), triangles (MTriangle), quadrangles (MQuadrangle), tetrahedra (MTetrahedron), etc. All the mesh elements are derived from MElement, and are stored in the corresponding model entities: one mesh point per geometrical point, mesh lines in geometrical curves, triangles and quadrangles in surfaces, etc. The elements are defined in terms of their nodes (MVertex). Each model entity stores only its internal nodes: nodes on boundaries or on embedded entities are stored in the associated bounding/embedded entity.
+
 **How a geo file is loaded into gmsh**
 
 main()   <br/>
