@@ -1,0 +1,4 @@
+<map id="RTree::Iterator::operator*" name="RTree::Iterator::operator*">
+<area shape="rect" id="node1" title="Access the current data element. Caller must be sure iterator is not NULL first." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$class_r_tree_1_1_iterator.html#a8cd6bf4fa228497ac736e8d7993e7daf" title="Is iterator pointing to valid data." alt="" coords="216,5,381,32"/>
+</map>

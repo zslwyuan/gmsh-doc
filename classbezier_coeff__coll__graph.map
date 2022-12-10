@@ -1,0 +1,9 @@
+<map id="bezierCoeff" name="bezierCoeff">
+<area shape="rect" id="node1" title=" " alt="" coords="443,228,529,255"/>
+<area shape="rect" id="node2" href="$classbezier_basis.html" title=" " alt="" coords="205,124,295,151"/>
+<area shape="rect" id="node3" href="$classbezier_basis_raiser.html" title=" " alt="" coords="163,228,289,255"/>
+<area shape="rect" id="node4" href="$class_func_space_data.html" title=" " alt="" coords="451,5,566,32"/>
+<area shape="rect" id="node5" href="$classfull_vector.html" title=" " alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node6" href="$classfull_matrix.html" title=" " alt="" coords="260,5,395,32"/>
+<area shape="rect" id="node7" href="$classbezier_coeff_memory_pool.html" title=" " alt="" coords="693,124,852,151"/>
+</map>

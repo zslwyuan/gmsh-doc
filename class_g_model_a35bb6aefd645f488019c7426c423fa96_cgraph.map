@@ -1,0 +1,52 @@
+<map id="GModel::adaptMesh" name="GModel::adaptMesh">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1644,143,1671"/>
+<area shape="rect" id="node2" href="$classmesh_metric.html#a8875a37c9647b270f39e63c5e65a6794" title=" " alt="" coords="211,1927,364,1953"/>
+<area shape="rect" id="node4" href="$class_c_t_x.html#aac047221d3017c256420f03fd8811498" title=" " alt="" coords="1184,1064,1287,1091"/>
+<area shape="rect" id="node6" href="$class_msg.html#a75882ad58cab9c206608da67fa233afc" title=" " alt="" coords="998,223,1078,249"/>
+<area shape="rect" id="node13" href="$namespace_legendre_polynomials.html#a4676bbabf471d599ed4e455e6a27cac3" title=" " alt="" coords="960,2019,1116,2045"/>
+<area shape="rect" id="node14" href="$class_g_model.html#afcf29c1ce997961f0a8c30c1accfd64d" title=" " alt="" coords="977,1165,1099,1192"/>
+<area shape="rect" id="node15" href="$class_g_model.html#af6990a681ed95c0d44f65fce99ed853b" title=" " alt="" coords="977,1765,1099,1792"/>
+<area shape="rect" id="node16" href="$class_g_model.html#ad33aef5861ebadad0907edf0518cc8a7" title=" " alt="" coords="971,1317,1105,1344"/>
+<area shape="rect" id="node17" href="$_generator_8cpp.html#a04b7f48842f791aceda09a3d8db0516e" title=" " alt="" coords="485,1397,592,1424"/>
+<area shape="rect" id="node20" href="$class_g_model.html#a99649dc564174bb7c39e2efae51929c1" title=" " alt="" coords="977,1703,1099,1729"/>
+<area shape="rect" id="node21" href="$class_g_model.html#a9dea33d88ed25017710e79d9d98c3a5b" title=" " alt="" coords="971,1816,1105,1843"/>
+<area shape="rect" id="node26" href="$class_g_model.html#a0b27005f96aa27030e7f14e348c9e86d" title=" " alt="" coords="977,1064,1099,1091"/>
+<area shape="rect" id="node28" href="$class_msg.html#a0eaa0291866b63f40561d1d6e91dd62b" title=" " alt="" coords="1001,483,1075,509"/>
+<area shape="rect" id="node31" href="$class_g_model.html#ab9af58c3ba58df09950bf45c1087691d" title=" " alt="" coords="700,2007,905,2033"/>
+<area shape="rect" id="node34" href="$class_g_model.html#a70bfc12a5d922ed358e8dfb4c4d8f979" title=" " alt="" coords="975,925,1101,952"/>
+<area shape="rect" id="node37" href="$class_g_model.html#ab3c1256a26af72b177a54389f877b345" title=" " alt="" coords="230,2455,345,2481"/>
+<area shape="rect" id="node38" href="$mesh_g_face_optimize_8cpp.html#ade20cc284538ed6b232ad4cf929151f8" title=" " alt="" coords="225,197,350,224"/>
+<area shape="rect" id="node39" href="$class_g_model.html#a5daf25448ebdf5a3ca3ff68995b8b023" title=" " alt="" coords="235,645,340,672"/>
+<area shape="rect" id="node40" href="$class_g_model.html#afaf2070b5dee3ed5f9a51cb2b493b3b1" title=" " alt="" coords="432,659,645,685"/>
+<area shape="rect" id="node41" href="$class_g_model.html#a6081b37ad138c5a65eeecd1a854fd281" title=" " alt="" coords="435,557,642,584"/>
+<area shape="rect" id="node42" href="$mesh_g_face_bamg_8cpp.html#a2e266eb762c6f68e15ec04c120012af9" title=" " alt="" coords="224,20,351,47"/>
+<area shape="rect" id="node43" href="$_options_8cpp.html#a13adbf77126413f1a91c8ac37b4543c6" title=" " alt="" coords="477,2252,601,2279"/>
+<area shape="rect" id="node44" href="$_options_8cpp.html#abb20db0f6ff3dae66b79b2aa8272a2fa" title=" " alt="" coords="225,2353,349,2380"/>
+<area shape="rect" id="node45" href="$_options_8cpp.html#afa936c53c45ecbe76f6d8c68427a368b" title=" " alt="" coords="453,2420,624,2447"/>
+<area shape="rect" id="node46" href="$_options_8cpp.html#a346960021686b36d6609c2ffdb15f842" title=" " alt="" coords="457,2303,620,2345"/>
+<area shape="rect" id="node47" href="$mesh_g_region_m_m_g_8cpp.html#af50cc03c958da468d724e30266be0749" title=" " alt="" coords="229,2505,346,2532"/>
+<area shape="rect" id="node48" href="$class_field_manager.html#a3afce807d3abc095a39b3d7556c2ccde" title=" " alt="" coords="220,2556,355,2583"/>
+<area shape="rect" id="node49" href="$class_field_manager.html#a01adc5cd692ed9c25a2f8d7eeea2929a" title=" " alt="" coords="191,2607,384,2649"/>
+<area shape="rect" id="node50" href="$class_g_model.html#a0bfd4ecaa09217e55de27291a3083f0a" title=" " alt="" coords="473,71,604,97"/>
+<area shape="rect" id="node3" href="$classmesh_metric.html#abebcfb5da8d07edf812ed6ff44e2e41b" title=" " alt="" coords="447,2100,630,2127"/>
+<area shape="rect" id="node5" href="$classsimple_function.html#a35eedcf1ce0faf64cad00e0c6b6cedd7" title=" " alt="" coords="437,1927,640,1953"/>
+<area shape="rect" id="node7" href="$class_gmsh_socket.html#a99f7d0726784a434e712a01d36adeeaa" title=" " alt="" coords="1170,197,1301,224"/>
+<area shape="rect" id="node8" href="$class_msg.html#afd6f56325baa00bcfd21f33356d9450a" title=" " alt="" coords="1198,248,1273,275"/>
+<area shape="rect" id="node9" href="$class_msg.html#a5fa4bbe64f98f5626ea1be8b97a533fb" title=" " alt="" coords="1164,460,1307,487"/>
+<area shape="rect" id="node10" href="$class_msg.html#ac471037b7525047b26c80aeff6c32553" title=" " alt="" coords="1171,369,1299,396"/>
+<area shape="rect" id="node11" href="$_gmsh_message_8cpp.html#a238ebef3b9412b039f35c09aa806c7da" title=" " alt="" coords="1188,299,1283,325"/>
+<area shape="rect" id="node12" href="$_gmsh_message_8cpp.html#ae052714b662d6685793db87f791880a5" title=" " alt="" coords="1180,147,1291,173"/>
+<area shape="rect" id="node18" href="$mesh_quad_quasi_structured_8cpp.html#a9fcd34e872c7fc78c16905f4a7d7eacc" title="To check if a compatible background mesh and guiding field already exists." alt="" coords="709,491,897,533"/>
+<area shape="rect" id="node19" href="$mesh_refine_8cpp.html#a92a19400df10cae8c934bde61c0b7e0f" title=" " alt="" coords="725,1804,880,1831"/>
+<area shape="rect" id="node22" href="$mesh_quad_quasi_structured_8cpp.html#ae6ec87f5e46f360f5c58b9ba5d6f8578" title=" " alt="" coords="693,426,912,467"/>
+<area shape="rect" id="node23" href="$class_g_model.html#ac8fb76332301fb29cad77c00dfcaf688" title=" " alt="" coords="707,1419,898,1461"/>
+<area shape="rect" id="node24" href="$class_g_model.html#a48bb508d9109aef3cbc89ee339c01188" title=" " alt="" coords="705,1485,901,1526"/>
+<area shape="rect" id="node25" href="$class_g_model.html#a830f51a8941548df26b14b0a19c1aa1d" title=" " alt="" coords="733,1652,873,1679"/>
+<area shape="rect" id="node27" href="$_generator_8cpp.html#a94a26a3eed152320200139b7df3e015e" title=" " alt="" coords="743,1115,862,1141"/>
+<area shape="rect" id="node29" href="$class_g_model.html#a0b7ff34f1b0c9a3bb7d2c02c04325370" title=" " alt="" coords="739,1551,866,1577"/>
+<area shape="rect" id="node30" href="$class_g_model.html#ae4661ed22757b303342da4efc21530b2" title=" " alt="" coords="722,1368,883,1395"/>
+<area shape="rect" id="node32" href="$class_g_model.html#a3c82c31304ea353f1705db3248e20787" title=" " alt="" coords="703,1601,902,1628"/>
+<area shape="rect" id="node33" href="$_generator_8cpp.html#aa2c7757a7d809c053ac67493d7489ec1" title=" " alt="" coords="767,912,838,939"/>
+<area shape="rect" id="node35" href="$_generator_8cpp.html#a6015548471c0bf838d7b1f4ec6fae08a" title=" " alt="" coords="767,963,838,989"/>
+<area shape="rect" id="node36" href="$_generator_8cpp.html#a5fe72e615a81c4dc647cc2aa573d5edd" title=" " alt="" coords="767,1905,838,1932"/>
+</map>

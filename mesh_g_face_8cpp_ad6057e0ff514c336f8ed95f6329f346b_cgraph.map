@@ -1,0 +1,22 @@
+<map id="getGFaceNormalFromVert" name="getGFaceNormalFromVert">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,180,159"/>
+<area shape="rect" id="node2" href="$class_m_element.html#a2803734eee6738aa5c0050af6da24c6a" title=" " alt="" coords="228,31,408,57"/>
+<area shape="rect" id="node3" href="$class_m_vertex.html#a0be1cc2f8fdc6a39deb0b0c15ca6558f" title=" " alt="" coords="241,81,395,108"/>
+<area shape="rect" id="node4" href="$class_m_element.html#a08060014c37e9b5a6e1294a3dfd353db" title=" " alt="" coords="247,132,389,159"/>
+<area shape="rect" id="node5" href="$class_g_face.html#a20db7b12ba34c42d0efc5dbcb465cd49" title=" " alt="" coords="265,183,371,209"/>
+<area shape="rect" id="node20" href="$class_m_vertex.html#aaf87a7d60c20b09ee67104e70e2d1712" title=" " alt="" coords="258,233,378,260"/>
+<area shape="rect" id="node6" href="$_s_vector3_8h.html#a639599217f80da7ee95b68ac781872d4" title=" " alt="" coords="485,56,564,83"/>
+<area shape="rect" id="node13" href="$class_pair.html#a5dbd0bd6fab0511a4649bdddb2cac906" title=" " alt="" coords="489,107,561,133"/>
+<area shape="rect" id="node14" href="$class_g_face.html#a7e23d86cac5ab045c08d816fa5e65314" title=" " alt="" coords="471,157,579,184"/>
+<area shape="rect" id="node15" href="$class_g_entity.html#a661f791adf8f84d75556695ca4ab17ba" title=" " alt="" coords="459,208,590,235"/>
+<area shape="rect" id="node16" href="$class_s_vector3.html#a1d89439957d6b86f8acaf7f9ced32cd6" title=" " alt="" coords="456,259,593,285"/>
+<area shape="rect" id="node19" href="$class_pair.html#a93cda6056771a3cae9786d26d0fad5f5" title=" " alt="" coords="478,309,571,336"/>
+<area shape="rect" id="node7" href="$class_s_vector3.html#a338e6c80965f82f6ad49386b6d01103e" title=" " alt="" coords="653,5,741,32"/>
+<area shape="rect" id="node9" href="$class_s_vector3.html#a53f4d6e546e7c9d37e82fa9665916210" title=" " alt="" coords="653,56,741,83"/>
+<area shape="rect" id="node11" href="$class_s_vector3.html#ac37fc6df828a93881197568ff56a80f0" title=" " alt="" coords="653,107,741,133"/>
+<area shape="rect" id="node8" href="$class_s_point3.html#a829b1afa2492cb5ff5e9ededfc73ccd3" title=" " alt="" coords="823,5,903,32"/>
+<area shape="rect" id="node10" href="$class_s_point3.html#a7825d605d07475f59fc37d0c4bfe98f4" title=" " alt="" coords="823,56,903,83"/>
+<area shape="rect" id="node12" href="$class_s_point3.html#a3ab3d52e07fe1efb820872ce04845833" title=" " alt="" coords="823,107,903,133"/>
+<area shape="rect" id="node17" href="$class_s_vector3.html#aae50839c5cad5cf7a26fd874f4f8dd68" title=" " alt="" coords="641,259,752,285"/>
+<area shape="rect" id="node18" href="$class_s_vector3.html#a83990a5c507a21a68703245dbf10dd61" title=" " alt="" coords="800,259,927,285"/>
+</map>

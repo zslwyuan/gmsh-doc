@@ -1,0 +1,52 @@
+<map id="SPoint2::y" name="SPoint2::y">
+<area shape="rect" id="node1" title=" " alt="" coords="979,1101,1059,1128"/>
+<area shape="rect" id="node2" href="$classdiscrete_face.html#a7cfccacadf98a8403b88a3a373a542cb" title=" " alt="" coords="696,5,931,32"/>
+<area shape="rect" id="node3" href="$gmsh_8cpp.html#a0c55d545e3c86e527ac89a0e4a662899" title=" " alt="" coords="707,56,920,83"/>
+<area shape="rect" id="node4" href="$mesh_g_face_optimize_8cpp.html#a7877378a3dd91b4d75ed840726e62a64" title=" " alt="" coords="721,259,906,301"/>
+<area shape="rect" id="node5" href="$mesh_g_face_optimize_8cpp.html#a37ba909f005593bf941dadecd311e8ee" title=" " alt="" coords="519,325,594,352"/>
+<area shape="rect" id="node9" href="$classblyr__manager.html#a90740e9184b4f211ad5fe0ad0fca75e8" title=" " alt="" coords="724,529,903,570"/>
+<area shape="rect" id="node10" href="$classbackground_mesh.html#aebceba01852a1c1c4855a4eaf4258251" title=" " alt="" coords="700,157,927,184"/>
+<area shape="rect" id="node12" href="$mesh_g_face_8cpp.html#a7824b737c278de24a09c73159268f09b" title=" " alt="" coords="251,249,379,276"/>
+<area shape="rect" id="node14" href="$mesh_g_face_pack_8cpp.html#ac5fe981d9c1179d1989ff62a325a34a9" title=" " alt="" coords="764,595,863,621"/>
+<area shape="rect" id="node15" href="$mesh_g_face_pack_8cpp.html#a71b5aa73c25a997f2349b5a8cac2cb1c" title=" " alt="" coords="465,689,648,730"/>
+<area shape="rect" id="node16" href="$mesh_g_face_8cpp.html#a3c3ef63f1ff09654b153b2e937cc6981" title=" " alt="" coords="212,477,417,504"/>
+<area shape="rect" id="node17" href="$class_g_face.html#a1b96ddf3f74da4d29a5a671abcaa978b" title=" " alt="" coords="466,866,647,907"/>
+<area shape="rect" id="node18" href="$_divide_and_conquer_8h.html#ada132b2b9a7bdcd6d47ac54329d38258" title=" " alt="" coords="749,949,877,976"/>
+<area shape="rect" id="node19" href="$mesh_g_face_pack_8cpp.html#a5a0b023e7b3a5eb785e2994b022e6802" title=" " alt="" coords="751,645,875,672"/>
+<area shape="rect" id="node20" href="$classdiscrete_face.html#a2e1e10c36217fdf61eb1bf33551f4d4b" title=" " alt="" coords="718,1000,909,1027"/>
+<area shape="rect" id="node21" href="$class_g_face.html#ac1fb0b3085657e5b49fb1b079e067dcb" title=" " alt="" coords="736,848,891,875"/>
+<area shape="rect" id="node22" href="$class_g_face.html#a7524ccdf398fb33109e5cd59a55fec5b" title=" " alt="" coords="743,1051,883,1077"/>
+<area shape="rect" id="node24" href="$class_s_point2.html#a0492b3515a7985071cff779fbc92b472" title=" " alt="" coords="253,427,376,453"/>
+<area shape="rect" id="node25" href="$_b_d_s_8cpp.html#a4bdfd04c46fd1d3acb29435364ffa605" title=" " alt="" coords="759,1101,867,1128"/>
+<area shape="rect" id="node26" href="$classgmsh_polar_sphere.html#aeeb45c5f781515a1140cf69cd6ddc5d5" title=" " alt="" coords="721,1153,906,1194"/>
+<area shape="rect" id="node27" href="$mesh_triangulation_8cpp.html#a71373c2345b25ae53ffd47219b05f8a3" title=" " alt="" coords="758,1219,869,1245"/>
+<area shape="rect" id="node28" href="$mesh_g_face_8cpp.html#abd628efe34be9d9af2d9b6a1df9c69a2" title=" " alt="" coords="491,275,623,301"/>
+<area shape="rect" id="node29" href="$class_surface_projector.html#a34a48bd4e9d10400993e2901dc17e30d" title="Fill the triangles and uvs from the triangles, then build the octree. Overwrite existing triangulatio..." alt="" coords="728,1269,899,1296"/>
+<area shape="rect" id="node30" href="$_geo_interpolation_8cpp.html#a9abc7d6b787b9f4a725ed7b3ef5b8411" title=" " alt="" coords="754,1320,873,1347"/>
+<area shape="rect" id="node31" href="$_numeric_8h.html#aedca54da61ea776f03411b1d8b04ca61" title=" " alt="" coords="737,1371,890,1397"/>
+<area shape="rect" id="node32" href="$mesh_g_face_pack_8cpp.html#ac4bd75905302d3ab804b22b76b2e37e1" title=" " alt="" coords="775,696,851,723"/>
+<area shape="rect" id="node33" href="$class_doc_record.html#a088eb77d7e036f0ae842f4ac85c2cb76" title=" " alt="" coords="725,1421,901,1448"/>
+<area shape="rect" id="node34" href="$_background_mesh_tools_8cpp.html#ade7820868a9d45e11a36196431e45507" title=" " alt="" coords="728,1473,899,1514"/>
+<area shape="rect" id="node35" href="$discrete_face_8cpp.html#aed77b3896da740ccb226e7d42b2a12df" title=" " alt="" coords="768,1539,859,1565"/>
+<area shape="rect" id="node36" href="$classgmsh_face.html#ae19b947a8e09565c83530d17df468f45" title=" " alt="" coords="749,1589,877,1616"/>
+<area shape="rect" id="node37" href="$_s_point2_8h.html#a842e42f4eec9a2b8e452dc76cec99f8c" title=" " alt="" coords="775,1640,852,1667"/>
+<area shape="rect" id="node38" href="$_s_point2_8h.html#a1a69631421b30a4c7ee310864b941338" title=" " alt="" coords="777,1691,850,1717"/>
+<area shape="rect" id="node39" href="$_b_d_s_8h.html#a4d38452f15628bac3c47cf1fa102e087" title=" " alt="" coords="253,376,376,403"/>
+<area shape="rect" id="node40" href="$classgmsh_surface.html#a801b649843abb858b73a85e0cb719404" title=" " alt="" coords="747,1765,880,1792"/>
+<area shape="rect" id="node41" href="$class_g_face.html#a4e721f6393a68c5698ddc7d3efe855f2" title=" " alt="" coords="766,1816,861,1843"/>
+<area shape="rect" id="node42" href="$class_doc_record.html#aa95a834fa612bd80a04209bd6edc22d1" title=" " alt="" coords="723,1867,903,1893"/>
+<area shape="rect" id="node43" href="$classbackground_mesh.html#aad87a181202c5ec1efa6d46694d89589" title=" " alt="" coords="721,1918,905,1959"/>
+<area shape="rect" id="node44" href="$_background_mesh_8cpp.html#aa8ec08bb5770264a6e8b199034237f5b" title=" " alt="" coords="731,1984,896,2011"/>
+<area shape="rect" id="node45" href="$class_s_point2.html#a37c9abe177990213b27ca10aa1ec3279" title=" " alt="" coords="753,2035,873,2061"/>
+<area shape="rect" id="node46" href="$class_g_face.html#ac2d06487235a3546b02c79657e5de248" title=" " alt="" coords="729,2085,898,2112"/>
+<area shape="rect" id="node47" href="$mesh_g_face_pack_8cpp.html#aa9221460b7207eb6c6b4cbc7928e5d48" title=" " alt="" coords="753,747,873,773"/>
+<area shape="rect" id="node48" href="$classbackground_mesh.html#ae473c290e9b7976e11bca6cabc21943f" title=" " alt="" coords="714,2136,913,2163"/>
+<area shape="rect" id="node49" href="$classgmsh_vertex.html#ae326009c4ed20a1a8ee938d2a83a0e2c" title=" " alt="" coords="737,2187,890,2213"/>
+<area shape="rect" id="node50" href="$classgmsh_vertex.html#a6ea160f5af4c29ad010796c2f86bd6d1" title=" " alt="" coords="742,2237,885,2264"/>
+<area shape="rect" id="node6" href="$mesh_g_face_optimize_8h.html#aaf1a7642cfca0786487af8b06fa45980" title=" " alt="" coords="252,325,377,352"/>
+<area shape="rect" id="node7" href="$mesh_g_face_8cpp.html#adb5d4b7ede7a455948eee036a792e9c9" title=" " alt="" coords="29,325,140,352"/>
+<area shape="rect" id="node8" href="$mesh_g_face_8cpp.html#aa70cb2aa2e9e32d13afb74ef1d0bab1f" title=" " alt="" coords="5,401,164,428"/>
+<area shape="rect" id="node11" href="$classbackground_mesh.html#a9a5a9a36eed64b6822f09b1b3ce51892" title=" " alt="" coords="484,224,629,251"/>
+<area shape="rect" id="node13" href="$classbackground_mesh.html#a7e8c6db62fe5e93bcea82be6de298bc2" title=" " alt="" coords="467,158,646,199"/>
+<area shape="rect" id="node23" href="$class_g_face.html#aaa6c7a8561c25687cf9e99c0b827cdc9" title=" " alt="" coords="493,1051,621,1077"/>
+</map>

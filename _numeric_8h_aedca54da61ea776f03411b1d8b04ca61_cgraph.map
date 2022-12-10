@@ -1,0 +1,7 @@
+<map id="intersection_segments" name="intersection_segments">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,159,83"/>
+<area shape="rect" id="node2" href="$_numeric_8cpp.html#a3972cb1fbbd4bb23ed280de987fee098" title=" " alt="" coords="215,5,278,32"/>
+<area shape="rect" id="node4" href="$class_s_point2.html#acd0d2ca728ef9d6257d93a40f5801f68" title=" " alt="" coords="207,56,287,83"/>
+<area shape="rect" id="node5" href="$class_s_point2.html#a6204e17b4355e7a6621e85c41cd15eb0" title=" " alt="" coords="207,107,287,133"/>
+<area shape="rect" id="node3" href="$gmsh_levelset_8cpp.html#afc4bb4ec638cfba7b31e474ac54bd9f7" title=" " alt="" coords="335,5,385,32"/>
+</map>

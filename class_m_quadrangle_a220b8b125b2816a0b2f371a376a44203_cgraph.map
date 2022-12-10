@@ -1,0 +1,24 @@
+<map id="MQuadrangle::gammaShapeMeasure" name="MQuadrangle::gammaShapeMeasure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,411,240,437"/>
+<area shape="rect" id="node2" href="$classqm_quadrangle.html#ace2ece7d35d8e3166344fb0851d0e7c4" title=" " alt="" coords="288,411,443,437"/>
+<area shape="rect" id="node3" href="$classqm_quadrangle.html#a20de85e8f96b584cd0c04e84abfdc811" title=" " alt="" coords="491,411,621,437"/>
+<area shape="rect" id="node4" href="$_s_vector3_8h.html#a9b17a94b2a28cdb6e3b638e54f93f233" title=" " alt="" coords="723,56,776,83"/>
+<area shape="rect" id="node5" href="$_s_vector3_8h.html#a639599217f80da7ee95b68ac781872d4" title=" " alt="" coords="1008,208,1087,235"/>
+<area shape="rect" id="node14" href="$_m_vertex_8cpp.html#ae7878cd5629bd26333657e3f153ae919" title=" " alt="" coords="695,360,803,387"/>
+<area shape="rect" id="node15" href="$discrete_frechet_distance_8cpp.html#aa783397e98bc2b10c9f8d6e83f7ec5e5" title=" " alt="" coords="899,512,938,539"/>
+<area shape="rect" id="node18" href="$_s_tensor3_8h.html#a36af3eeb8b0c5d5feebe68b18ab540fd" title=" " alt="" coords="1027,157,1067,184"/>
+<area shape="rect" id="node22" href="$class_m_quadrangle.html#a33e8a6ee98f7e9d029d803abf3763cf1" title=" " alt="" coords="669,563,829,589"/>
+<area shape="rect" id="node12" href="$_s_vector3_8h.html#a4707e2d3de946cdd7b6c65ab17d3438f" title=" " alt="" coords="1027,107,1067,133"/>
+<area shape="rect" id="node13" href="$_s_vector3_8h.html#a214a3ea34332bb4838c37607ad3f63e4" title=" " alt="" coords="893,5,944,32"/>
+<area shape="rect" id="node6" href="$class_s_vector3.html#a338e6c80965f82f6ad49386b6d01103e" title=" " alt="" coords="1152,107,1240,133"/>
+<area shape="rect" id="node8" href="$class_s_vector3.html#a53f4d6e546e7c9d37e82fa9665916210" title=" " alt="" coords="1152,157,1240,184"/>
+<area shape="rect" id="node10" href="$class_s_vector3.html#ac37fc6df828a93881197568ff56a80f0" title=" " alt="" coords="1152,208,1240,235"/>
+<area shape="rect" id="node7" href="$class_s_point3.html#a829b1afa2492cb5ff5e9ededfc73ccd3" title=" " alt="" coords="1305,113,1385,140"/>
+<area shape="rect" id="node9" href="$class_s_point3.html#a7825d605d07475f59fc37d0c4bfe98f4" title=" " alt="" coords="1305,171,1385,197"/>
+<area shape="rect" id="node11" href="$class_s_point3.html#a3ab3d52e07fe1efb820872ce04845833" title=" " alt="" coords="1305,233,1385,260"/>
+<area shape="rect" id="node19" href="$class_m_vertex.html#a7300564b9dbc62c6064b6ab9ccdd357f" title=" " alt="" coords="877,360,960,387"/>
+<area shape="rect" id="node20" href="$class_m_vertex.html#a1d0b86aefb8c619be386a3f25509ea4d" title=" " alt="" coords="877,411,960,437"/>
+<area shape="rect" id="node21" href="$class_m_vertex.html#a407cf710a4d281a5d35174b04a865109" title=" " alt="" coords="877,259,960,285"/>
+<area shape="rect" id="node16" href="$discrete_frechet_distance_8cpp.html#a06823e12cb76f595f48c29d1a912c5b4" title=" " alt="" coords="1012,360,1083,387"/>
+<area shape="rect" id="node17" href="$class_s_point3.html#ad32ac4921cfdd8779bcf9fee158ff839" title=" " alt="" coords="1135,259,1257,285"/>
+</map>

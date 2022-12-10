@@ -1,0 +1,27 @@
+var class_poly_mesh =
+[
+    [ "Face", "class_poly_mesh_1_1_face.html", "class_poly_mesh_1_1_face" ],
+    [ "HalfEdge", "class_poly_mesh_1_1_half_edge.html", "class_poly_mesh_1_1_half_edge" ],
+    [ "Vertex", "class_poly_mesh_1_1_vertex.html", "class_poly_mesh_1_1_vertex" ],
+    [ "~PolyMesh", "class_poly_mesh.html#aa16fd061fd18d60d365f46f64e9cf7ca", null ],
+    [ "clean", "class_poly_mesh.html#aff1fea7ba938f402c91fc098cb76098e", null ],
+    [ "cleanf", "class_poly_mesh.html#a203ef863777e9ed21b16a91c5cdaa943", null ],
+    [ "cleanh", "class_poly_mesh.html#a5eb3a691082814934381377464b96496", null ],
+    [ "cleanv", "class_poly_mesh.html#a74d8fa93014b6d66e5ba28580fe3c1a3", null ],
+    [ "createFace", "class_poly_mesh.html#ac77f5eb06d5d9660edd690b12c446019", null ],
+    [ "degree", "class_poly_mesh.html#a71abc7f66e92f4af557da6a177e4d5a7", null ],
+    [ "getEdge", "class_poly_mesh.html#a13e0cf5ae83b0b0254819308e2068036", null ],
+    [ "initialize_rectangle", "class_poly_mesh.html#a86bf27ecfde8b3ff40c23b269892880b", null ],
+    [ "merge_faces", "class_poly_mesh.html#a8d41db955c9b7808e691af99ae9ea4b6", null ],
+    [ "normal", "class_poly_mesh.html#ae802912d765f57635a2b282b2bb4e26a", null ],
+    [ "num_sides", "class_poly_mesh.html#a59725445f98bc3e3bef5a747e627d979", null ],
+    [ "print4debug", "class_poly_mesh.html#ae141f18e9ca6eaa60828751e79cd1a8c", null ],
+    [ "reset", "class_poly_mesh.html#a8398089f2282c75a15ed95f5a9ba6dbf", null ],
+    [ "split_edge", "class_poly_mesh.html#ad5a47594457f8db05f7a5e95f2c03374", null ],
+    [ "split_triangle", "class_poly_mesh.html#a5df751d0e19a41890ccd56dd1834535d", null ],
+    [ "swap_edge", "class_poly_mesh.html#ad866815ba3124e3aa30e9b966fc3fc1f", null ],
+    [ "faces", "class_poly_mesh.html#a5ab7bf0c5f6f41653597d47286bd1a1d", null ],
+    [ "hedges", "class_poly_mesh.html#aaaccf885ce21e60ff4bb8974dbf8a1be", null ],
+    [ "high_order_nodes", "class_poly_mesh.html#a0ce795da15da42be656e7d2170a76f18", null ],
+    [ "vertices", "class_poly_mesh.html#a52ff3e90ebb1924ec7045fa039dd1f4d", null ]
+];

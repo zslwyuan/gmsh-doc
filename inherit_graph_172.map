@@ -1,0 +1,18 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_function_space_base.html" title=" " alt="" coords="5,355,144,381"/>
+<area shape="rect" id="node2" href="$class_function_space.html" title=" " alt="" coords="215,148,354,175"/>
+<area shape="rect" id="node8" href="$class_function_space.html" title=" " alt="" coords="200,304,369,331"/>
+<area shape="rect" id="node11" href="$class_function_space.html" title=" " alt="" coords="192,355,377,381"/>
+<area shape="rect" id="node15" href="$class_function_space.html" title=" " alt="" coords="211,405,358,432"/>
+<area shape="rect" id="node16" href="$class_function_space.html" title=" " alt="" coords="211,456,358,483"/>
+<area shape="rect" id="node3" href="$class_composite_function_space.html" title=" " alt="" coords="431,5,633,32"/>
+<area shape="rect" id="node4" href="$class_filtered_function_space.html" title=" " alt="" coords="456,57,608,98"/>
+<area shape="rect" id="node5" href="$class_scalar_to_any_function_space.html" title=" " alt="" coords="425,123,639,149"/>
+<area shape="rect" id="node6" href="$class_solver_field.html" title=" " alt="" coords="473,173,591,200"/>
+<area shape="rect" id="node7" href="$classx_fem_function_space.html" title=" " alt="" coords="447,224,617,251"/>
+<area shape="rect" id="node9" href="$class_scalar_lagrange_function_space.html" title=" " alt="" coords="432,275,632,301"/>
+<area shape="rect" id="node10" href="$class_scalar_lagrange_function_space_of_element.html" title=" " alt="" coords="432,326,632,367"/>
+<area shape="rect" id="node12" href="$class_scalar_to_any_function_space.html" title=" " alt="" coords="441,391,623,433"/>
+<area shape="rect" id="node13" href="$class_vector_lagrange_function_space.html" title=" " alt="" coords="687,369,888,396"/>
+<area shape="rect" id="node14" href="$class_vector_lagrange_function_space_of_element.html" title=" " alt="" coords="687,421,888,462"/>
+</map>

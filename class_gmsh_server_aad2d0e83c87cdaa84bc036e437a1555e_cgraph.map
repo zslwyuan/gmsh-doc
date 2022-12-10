@@ -1,0 +1,6 @@
+<map id="GmshServer::Start" name="GmshServer::Start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node2" href="$class_gmsh_socket.html#ac917798cd2e4966b0e4c38c67246f88b" title=" " alt="" coords="214,5,393,32"/>
+<area shape="rect" id="node3" href="$class_gmsh_server.html#ae7b0446e3c3e9a9fb9bb517ce4445c7f" title=" " alt="" coords="183,56,424,83"/>
+<area shape="rect" id="node4" href="$class_gmsh_server.html#a7ab5da2479af4083b44fd4966c5690fe" title=" " alt="" coords="203,107,404,133"/>
+</map>

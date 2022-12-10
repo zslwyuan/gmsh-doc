@@ -1,0 +1,25 @@
+var class_s_point2 =
+[
+    [ "SPoint2", "class_s_point2.html#a37c9abe177990213b27ca10aa1ec3279", null ],
+    [ "SPoint2", "class_s_point2.html#ae7b86ef1639e15cbab8f2974f7987264", null ],
+    [ "SPoint2", "class_s_point2.html#aa0e6e26bd90fc069a6663952ba6e126e", null ],
+    [ "~SPoint2", "class_s_point2.html#ae70b260d56bd4af3dd907e7489cdedbe", null ],
+    [ "data", "class_s_point2.html#ab44d6804f69d5cdfc52eb20a23a84748", null ],
+    [ "data", "class_s_point2.html#a71aadf2fad2fe442b4f7c2f8cc292394", null ],
+    [ "distance", "class_s_point2.html#a0492b3515a7985071cff779fbc92b472", null ],
+    [ "getPosition", "class_s_point2.html#a04d5edb250bb5a39a930e46c13e795a2", null ],
+    [ "operator double *", "class_s_point2.html#af79a5fddda42d99f68c5b672c125cb8f", null ],
+    [ "operator*", "class_s_point2.html#a7f747df76db1fa4d748f4fdb2d3cc0f8", null ],
+    [ "operator*=", "class_s_point2.html#a5d09e0ab22f2adc71bbd270748bc0bfd", null ],
+    [ "operator+=", "class_s_point2.html#ac53cdcdb2fba23ec7ca3e39070ee03a5", null ],
+    [ "operator-=", "class_s_point2.html#a7212753825d64b27bac0ad140d041cac", null ],
+    [ "operator<", "class_s_point2.html#a2585c3637c3e7046466f696bd9182c5a", null ],
+    [ "operator=", "class_s_point2.html#aa9a08f10636384a042af2efb90c9f43b", null ],
+    [ "operator[]", "class_s_point2.html#a8c5b4a7abc482ef49a05855b02c44c78", null ],
+    [ "operator[]", "class_s_point2.html#a090c6263bdab96856a0d16d8c34f783f", null ],
+    [ "position", "class_s_point2.html#ab8c029a0104a1aea53f30eaf39fbc7cf", null ],
+    [ "setPosition", "class_s_point2.html#ab3adaac826d9e2042c7126809aea1e37", null ],
+    [ "x", "class_s_point2.html#acd0d2ca728ef9d6257d93a40f5801f68", null ],
+    [ "y", "class_s_point2.html#a6204e17b4355e7a6621e85c41cd15eb0", null ],
+    [ "P", "class_s_point2.html#a284731189b81a4f607d1b95a4a3655a2", null ]
+];

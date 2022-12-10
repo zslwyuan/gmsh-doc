@@ -1,0 +1,7 @@
+<map id="drawVerticesPerEntity" name="drawVerticesPerEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="247,81,397,108"/>
+<area shape="rect" id="node2" href="$classdraw_mesh_g_vertex.html#a065fd821d210dabcb997c91762e56d76" title=" " alt="" coords="7,5,197,32"/>
+<area shape="rect" id="node3" href="$classdraw_mesh_g_edge.html#a2e6d35d1f2b4ec5dbc98db4c10717ba1" title=" " alt="" coords="11,56,193,83"/>
+<area shape="rect" id="node4" href="$classdraw_mesh_g_face.html#a8f0369f5940fcfbceca90daaeb95f4b3" title=" " alt="" coords="11,107,193,133"/>
+<area shape="rect" id="node5" href="$classdraw_mesh_g_region.html#a3afcd6e310e30fd04d00ac64d10291d5" title=" " alt="" coords="5,157,199,184"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="OptimizeMesh" name="OptimizeMesh">
+<area shape="rect" id="node1" title=" " alt="" coords="5,609,111,636"/>
+<area shape="rect" id="node2" href="$_o_s_8cpp.html#aa539d0fea7e3cd903f638a48790fe52e" title=" " alt="" coords="875,790,921,817"/>
+<area shape="rect" id="node4" href="$class_msg.html#a93c6f0edcb3a0fa5210dd4838ab23eb7" title=" " alt="" coords="468,765,559,792"/>
+<area shape="rect" id="node6" href="$class_msg.html#ac471037b7525047b26c80aeff6c32553" title=" " alt="" coords="671,501,799,528"/>
+<area shape="rect" id="node8" href="$class_c_t_x.html#aac047221d3017c256420f03fd8811498" title=" " alt="" coords="684,1094,787,1121"/>
+<area shape="rect" id="node10" href="$class_msg.html#a75882ad58cab9c206608da67fa233afc" title=" " alt="" coords="473,240,553,266"/>
+<area shape="rect" id="node15" href="$class_g_model.html#af6990a681ed95c0d44f65fce99ed853b" title=" " alt="" coords="199,280,322,306"/>
+<area shape="rect" id="node16" href="$class_g_model.html#ad33aef5861ebadad0907edf0518cc8a7" title=" " alt="" coords="193,330,328,357"/>
+<area shape="rect" id="node17" href="$class_g_model.html#ab3c1256a26af72b177a54389f877b345" title=" " alt="" coords="203,482,318,509"/>
+<area shape="rect" id="node22" href="$class_msg.html#a64c03a8ddddf70f0531fa58b5eaf194f" title=" " alt="" coords="193,432,328,458"/>
+<area shape="rect" id="node23" href="$class_g_model.html#a0b7ff34f1b0c9a3bb7d2c02c04325370" title=" " alt="" coords="450,1069,577,1096"/>
+<area shape="rect" id="node24" href="$class_g_model.html#ab80aa84e953763991a8d14a0f615693a" title=" " alt="" coords="187,533,334,560"/>
+<area shape="rect" id="node26" href="$class_g_model.html#a08900ae6f500c339665e8b46cd03ef62" title=" " alt="" coords="191,584,330,610"/>
+<area shape="rect" id="node27" href="$class_g_entity.html#a10bf58c0ff225ab62fe52047ef996c45" title=" " alt="" coords="193,1373,329,1400"/>
+<area shape="rect" id="node29" href="$mesh_g_face_optimize_8cpp.html#ade20cc284538ed6b232ad4cf929151f8" title=" " alt="" coords="198,634,323,661"/>
+<area shape="rect" id="node33" href="$class_g_model.html#a99649dc564174bb7c39e2efae51929c1" title=" " alt="" coords="199,736,322,762"/>
+<area shape="rect" id="node34" href="$class_g_model.html#a9dea33d88ed25017710e79d9d98c3a5b" title=" " alt="" coords="193,786,328,813"/>
+<area shape="rect" id="node35" href="$mesh_quad_quasi_structured_8cpp.html#ac4c3d63872a58fddb6c3fa420f4bd8a8" title="Look for patches of quads with &gt;=3 irregular vertices which can be remeshed with more regular quad me..." alt="" coords="169,83,353,124"/>
+<area shape="rect" id="node36" href="$mesh_quad_quasi_structured_8cpp.html#a0f20da656490f16ebe830b355db38e13" title="Look for non&#45;ideal vertex valences in quad mesh and find a better local remeshing by looking into all..." alt="" coords="170,148,351,190"/>
+<area shape="rect" id="node37" href="$mesh_quad_quasi_structured_8cpp.html#aea56b8600f761f368f2e4c42bfc82f65" title="Look for simple CAD faces (topological disk, a few corners) which can be remeshed with simple quad pa..." alt="" coords="166,214,355,255"/>
+<area shape="rect" id="node38" href="$mesh_relocate_vertex_8cpp.html#a8d65ad43db1ba32359e74fc091479129" title=" " alt="" coords="200,938,321,965"/>
+<area shape="rect" id="node42" href="$class_g_model.html#acd8038c95f216db888a8d12382a3d11e" title=" " alt="" coords="159,1040,363,1066"/>
+<area shape="rect" id="node43" href="$class_msg.html#a2203001b1ac23e20c9efc5341e4b4097" title=" " alt="" coords="458,816,569,842"/>
+<area shape="rect" id="node45" href="$_o_s_8cpp.html#a99c5ab77eb7b0b334815f4fa8b3a8d03" title=" " alt="" coords="855,841,941,868"/>
+<area shape="rect" id="node46" href="$mesh_quad_quasi_structured_8cpp.html#ac36e15cebca2441796ddacc899f6eee9" title="Mesh vertices on seam curves (and isolated corners) are reparametrized on the associated GFace and tr..." alt="" coords="163,1112,358,1154"/>
+<area shape="rect" id="node3" href="$_o_s_8cpp.html#a4a897390b8d7b550f754a4bc993e2fee" title=" " alt="" coords="989,790,1095,817"/>
+<area shape="rect" id="node5" href="$class_msg.html#a5fa4bbe64f98f5626ea1be8b97a533fb" title=" " alt="" coords="664,714,807,741"/>
+<area shape="rect" id="node7" href="$class_gmsh_socket.html#a31130525b8b43fc7b1afb35b6007c93a" title=" " alt="" coords="672,765,799,792"/>
+<area shape="rect" id="node9" href="$class_c_t_x.html#afb1b62b2c08d6fff6dd888585ac26760" title=" " alt="" coords="858,1094,938,1121"/>
+<area shape="rect" id="node11" href="$class_gmsh_socket.html#a99f7d0726784a434e712a01d36adeeaa" title=" " alt="" coords="670,316,801,342"/>
+<area shape="rect" id="node12" href="$class_msg.html#afd6f56325baa00bcfd21f33356d9450a" title=" " alt="" coords="698,164,773,190"/>
+<area shape="rect" id="node13" href="$_gmsh_message_8cpp.html#a238ebef3b9412b039f35c09aa806c7da" title=" " alt="" coords="688,214,783,241"/>
+<area shape="rect" id="node14" href="$_gmsh_message_8cpp.html#ae052714b662d6685793db87f791880a5" title=" " alt="" coords="680,265,791,292"/>
+<area shape="rect" id="node18" href="$class_g_model.html#a2385daef3c3c99015424acf2ccf70db6" title=" " alt="" coords="436,461,591,488"/>
+<area shape="rect" id="node19" href="$class_g_model.html#af4b0f100bb332df1cbdffebe2d684e7a" title=" " alt="" coords="436,512,591,538"/>
+<area shape="rect" id="node20" href="$class_g_model.html#a4987a709bae4dd40c84a48100f708d4d" title=" " alt="" coords="430,360,597,386"/>
+<area shape="rect" id="node21" href="$class_g_model.html#a42ca84084e88c746e59e57544a6436be" title=" " alt="" coords="430,410,597,437"/>
+<area shape="rect" id="node25" href="$class_g_model.html#ab9af58c3ba58df09950bf45c1087691d" title=" " alt="" coords="411,562,616,589"/>
+<area shape="rect" id="node28" href="$class_g_entity.html#a14430ac3db0bb89ff2ba12c36cdba752" title=" " alt="" coords="442,1424,585,1450"/>
+<area shape="rect" id="node30" href="$mesh_g_face_optimize_8cpp.html#a37ba909f005593bf941dadecd311e8ee" title=" " alt="" coords="476,613,551,640"/>
+<area shape="rect" id="node31" href="$mesh_g_face_optimize_8h.html#a9713d8ebfce867a9563727a65f661430" title=" " alt="" coords="439,714,587,741"/>
+<area shape="rect" id="node32" href="$mesh_g_face_optimize_8cpp.html#af89945849adc5326a44942cc2867195b" title=" " alt="" coords="419,664,608,690"/>
+<area shape="rect" id="node39" href="$mesh_relocate_vertex_8cpp.html#a31f205aec89fec304669f24e71ae71c6" title=" " alt="" coords="457,917,569,944"/>
+<area shape="rect" id="node40" href="$mesh_relocate_vertex_8cpp.html#af89945849adc5326a44942cc2867195b" title=" " alt="" coords="419,968,608,994"/>
+<area shape="rect" id="node41" href="$class_g_entity.html#ac1683b7c3eadfad26821064c2930be11" title=" " alt="" coords="469,1018,557,1045"/>
+<area shape="rect" id="node44" href="$class_msg.html#a77ecc7e0801b59f17485318e0408249c" title=" " alt="" coords="664,816,807,842"/>
+<area shape="rect" id="node47" href="$class_g_vertex.html#a51908a0413961065b8e33f0c603c1021" title=" " alt="" coords="458,1120,569,1146"/>
+<area shape="rect" id="node48" href="$class_g_face.html#ac75377129fac8c0d88e1c4b3dd1b66c3" title=" " alt="" coords="462,1170,565,1197"/>
+<area shape="rect" id="node49" href="$namespace_legendre_polynomials.html#a4676bbabf471d599ed4e455e6a27cac3" title=" " alt="" coords="435,1221,591,1248"/>
+<area shape="rect" id="node50" href="$class_g_edge.html#a913ffa1d916a12382fd565ec53cf47dd" title=" " alt="" coords="464,1272,563,1298"/>
+</map>

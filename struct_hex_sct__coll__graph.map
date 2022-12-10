@@ -1,0 +1,7 @@
+<map id="HexSct" name="HexSct">
+<area shape="rect" id="node1" title=" " alt="" coords="31,363,97,389"/>
+<area shape="rect" id="node2" href="$struct_ver_sct.html" title=" " alt="" coords="162,5,225,32"/>
+<area shape="rect" id="node3" href="$struct_edg_sct.html" title=" " alt="" coords="97,95,161,121"/>
+<area shape="rect" id="node4" href="$struct_qad_sct.html" title=" " alt="" coords="127,273,193,300"/>
+<area shape="rect" id="node5" href="$struct_tri_sct.html" title=" " alt="" coords="175,184,233,211"/>
+</map>

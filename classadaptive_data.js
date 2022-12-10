@@ -1,0 +1,28 @@
+var classadaptive_data =
+[
+    [ "adaptiveData", "classadaptive_data.html#a8601bf0b304f7e4edbb39ad54e03dac8", null ],
+    [ "~adaptiveData", "classadaptive_data.html#a79b4b6544aeda43f52741acb375e840a", null ],
+    [ "changeResolution", "classadaptive_data.html#ad17ae9c8d00896cac6ea2d4c99c8c181", null ],
+    [ "changeResolutionForVTK", "classadaptive_data.html#ac2ee5ef855f2eb8550a3539e905b2ce4", null ],
+    [ "countTotElmLev0", "classadaptive_data.html#a61c9cdcbddac93b6b6cd90be43606149", null ],
+    [ "getData", "classadaptive_data.html#a2172f35b9e08c85b4b7cb17131aaa3b5", null ],
+    [ "upBuildStaticData", "classadaptive_data.html#a8622c947a91d277ed136d423f2446382", null ],
+    [ "upWriteVTK", "classadaptive_data.html#a3888973f274807bd6646756218cfa7c4", null ],
+    [ "_hexahedra", "classadaptive_data.html#a5764d80389473e52d6de45491abf898a", null ],
+    [ "_inData", "classadaptive_data.html#aac8edc80634ea12a9b34d1d889c9f17c", null ],
+    [ "_level", "classadaptive_data.html#ae2ee5259903bda921295d438861dd908", null ],
+    [ "_lines", "classadaptive_data.html#abdef1dfa826acb1ea4ecda7564f92098", null ],
+    [ "_outData", "classadaptive_data.html#af1f7966acab7f2d5b6c3948877470dfc", null ],
+    [ "_points", "classadaptive_data.html#a126a4c6fde9aaba761a465c473632db8", null ],
+    [ "_prisms", "classadaptive_data.html#a1114619ddbf62017e96587f68c247262", null ],
+    [ "_pyramids", "classadaptive_data.html#aa1e6a01d2584ac0bcffc5c57f5c55b93", null ],
+    [ "_quadrangles", "classadaptive_data.html#acca79e6bfae2e8bd97ee74bb7791d4a8", null ],
+    [ "_step", "classadaptive_data.html#af3e687fe3ef4f8aca47b25402fd62f12", null ],
+    [ "_tetrahedra", "classadaptive_data.html#a60cb9ff8a23df8c3d1cfad5470070451", null ],
+    [ "_tol", "classadaptive_data.html#abe1c01d59498f8c6390351551eeed495", null ],
+    [ "_triangles", "classadaptive_data.html#af1b4f7d85d223e33433f475ff28378c3", null ],
+    [ "buildStaticData", "classadaptive_data.html#acdec7c336af684b143d93f4fdcaee351", null ],
+    [ "timerAdapt", "classadaptive_data.html#ab618344fcd5fefcdaad4d1a89b964816", null ],
+    [ "timerInit", "classadaptive_data.html#a578cc016cf539cdce16688a381aff450", null ],
+    [ "writeVTK", "classadaptive_data.html#a7f42f01d523816fe7c51f771186abb5c", null ]
+];

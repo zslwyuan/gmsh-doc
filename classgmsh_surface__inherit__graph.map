@@ -1,0 +1,6 @@
+<map id="gmshSurface" name="gmshSurface">
+<area shape="rect" id="node1" title=" " alt="" coords="205,5,304,32"/>
+<area shape="rect" id="node2" href="$classgmsh_parametric_surface.html" title=" " alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$classgmsh_polar_sphere.html" title=" " alt="" coords="192,80,317,107"/>
+<area shape="rect" id="node4" href="$classgmsh_sphere.html" title=" " alt="" coords="342,80,437,107"/>
+</map>

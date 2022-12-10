@@ -1,0 +1,27 @@
+<map id="MTriangleBorder" name="MTriangleBorder">
+<area shape="rect" id="node1" title=" " alt="" coords="99,752,216,779"/>
+<area shape="rect" id="node2" href="$class_m_triangle.html" title=" " alt="" coords="118,663,197,689"/>
+<area shape="rect" id="node3" href="$class_m_element.html" title=" " alt="" coords="5,573,85,600"/>
+<area shape="rect" id="node4" href="$class_m_vertex.html" title=" " alt="" coords="122,573,193,600"/>
+<area shape="rect" id="node5" href="$class_g_entity.html" title=" " alt="" coords="168,483,232,509"/>
+<area shape="rect" id="node6" href="$class_g_model.html" title=" " alt="" coords="520,573,587,600"/>
+<area shape="rect" id="node16" href="$class_m_element_octree.html" title=" " alt="" coords="554,663,673,689"/>
+<area shape="rect" id="node7" href="$class_g_e_o___internals.html" title=" " alt="" coords="363,483,469,509"/>
+<area shape="rect" id="node8" href="$class_list___t.html" title=" " alt="" coords="365,245,424,272"/>
+<area shape="rect" id="node9" href="$class_tree___t.html" title=" " alt="" coords="505,245,567,272"/>
+<area shape="rect" id="node10" href="$structavl__tree__struct.html" title=" " alt="" coords="482,97,590,124"/>
+<area shape="rect" id="node11" href="$structavl__node__struct.html" title=" " alt="" coords="479,7,593,33"/>
+<area shape="rect" id="node12" href="$classsmooth__normals.html" title=" " alt="" coords="494,483,613,509"/>
+<area shape="rect" id="node13" href="$class_field_manager.html" title=" " alt="" coords="637,483,737,509"/>
+<area shape="rect" id="node14" title=" " alt="" coords="611,245,762,272"/>
+<area shape="rect" id="node15" href="$class_o_c_c___internals.html" title=" " alt="" coords="761,483,868,509"/>
+<area shape="rect" id="node17" href="$class_octree.html" title=" " alt="" coords="896,573,957,600"/>
+<area shape="rect" id="node18" href="$structglobal.html" title=" " alt="" coords="899,483,955,509"/>
+<area shape="rect" id="node19" href="$structbucket.html" title=" " alt="" coords="979,483,1040,509"/>
+<area shape="rect" id="node20" href="$structelem.html" title=" " alt="" coords="984,245,1035,272"/>
+<area shape="rect" id="node21" href="$class_vertex_array.html" title=" " alt="" coords="30,245,119,272"/>
+<area shape="rect" id="node22" href="$class_s_oriented_bounding_box.html" title=" " alt="" coords="143,245,299,272"/>
+<area shape="rect" id="node23" href="$class_s_vector3.html" title=" " alt="" coords="183,97,259,124"/>
+<area shape="rect" id="node24" href="$class_s_point3.html" title=" " alt="" coords="187,7,255,33"/>
+<area shape="rect" id="node25" href="$struct_int_pt.html" title=" " alt="" coords="221,663,272,689"/>
+</map>

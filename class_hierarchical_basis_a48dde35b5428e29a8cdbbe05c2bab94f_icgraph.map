@@ -1,0 +1,9 @@
+<map id="HierarchicalBasis::numberOrientationTriFace" name="HierarchicalBasis::numberOrientationTriFace">
+<area shape="rect" id="node1" title=" " alt="" coords="239,169,411,211"/>
+<area shape="rect" id="node2" href="$class_hierarchical_basis_hcurl_tria.html#aef0a3dae73ec13d7ae5249095b1b7b2c" title=" " alt="" coords="9,5,187,47"/>
+<area shape="rect" id="node3" href="$class_hierarchical_basis_h1_tria.html#a37552a21d646e9adf06abdabaf15800c" title=" " alt="" coords="17,71,179,112"/>
+<area shape="rect" id="node4" href="$class_hierarchical_basis_hcurl_tetra.html#aba3565b88301d4b18d678feecc5b69f5" title=" " alt="" coords="5,136,191,177"/>
+<area shape="rect" id="node5" href="$class_hierarchical_basis_hcurl_pri.html#a849743a74861bbe71555915e6f0d6871" title=" " alt="" coords="13,201,183,243"/>
+<area shape="rect" id="node6" href="$class_hierarchical_basis_h1_tetra.html#a41397e91aa7ff4e43ac199cb78ef65fd" title=" " alt="" coords="13,267,183,308"/>
+<area shape="rect" id="node7" href="$class_hierarchical_basis_h1_pri.html#a630cf14765d5c6cda9ecf42b861e2620" title=" " alt="" coords="19,332,177,373"/>
+</map>

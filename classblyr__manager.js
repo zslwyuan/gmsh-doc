@@ -1,0 +1,27 @@
+var classblyr__manager =
+[
+    [ "blyr_manager", "classblyr__manager.html#a2a77ef1ad6cac74fead6e17f7b53ee79", null ],
+    [ "add_external_corner", "classblyr__manager.html#a90740e9184b4f211ad5fe0ad0fca75e8", null ],
+    [ "add_fan", "classblyr__manager.html#a0558d26ca1de6fbd6272e982a65b22ec", null ],
+    [ "add_one_normal", "classblyr__manager.html#af65386014e8a9f0ea9eb58d700e5c9b7", null ],
+    [ "blyr_thickness", "classblyr__manager.html#a004d409112289657c1c22d8379dc6e7c", null ],
+    [ "classify_corners", "classblyr__manager.html#aabdd115802fe63a16d070714401126b2", null ],
+    [ "classify_ridges", "classblyr__manager.html#a6c2d6dcf44f1af4211d815b88ad10b43", null ],
+    [ "extrude_external_corners", "classblyr__manager.html#afae76af2046b609e085e29f06fa52077", null ],
+    [ "extrude_one_external", "classblyr__manager.html#a6c2d2b1119c3bffff267e2a9a4490a3a", null ],
+    [ "extrude_ridges", "classblyr__manager.html#abd754dd8084a4affc92abe6122d7245c", null ],
+    [ "extrude_ridges_on_faces", "classblyr__manager.html#a2a0510185f60b500b2a3bd62c67810e1", null ],
+    [ "extrude_triangles", "classblyr__manager.html#ada84949d075c90ec36765244ac3192f8", null ],
+    [ "extrude_vertex_on_both_surfaces_of_a_ridge", "classblyr__manager.html#a8fc0063e65c1115de1943ce5f8bee0ee", null ],
+    [ "extrude_vertices", "classblyr__manager.html#ab5b288a6bc9a13e54911b1a3efaee788", null ],
+    [ "extrude_vertices_basic", "classblyr__manager.html#a3afa49b5afad10a09c2e5b4e64606c98", null ],
+    [ "extrude_vertices_on_edges", "classblyr__manager.html#aa73d9e483598ebc7c165595f47e1eda3", null ],
+    [ "extrude_vertices_on_faces", "classblyr__manager.html#a4cca2775e49659f414fa06711aff250e", null ],
+    [ "getRidge", "classblyr__manager.html#a232be7bda2b848cb8f1d7d2e574c71e9", null ],
+    [ "_faces", "classblyr__manager.html#a9a33c577d4adb4e917fc6b3ab713e0e5", null ],
+    [ "_gr", "classblyr__manager.html#ad473c7c963a3848752f6dbe772f75179", null ],
+    [ "_ridges", "classblyr__manager.html#aefa655de962be8bb5c2ad198db7e4922", null ],
+    [ "_thickness", "classblyr__manager.html#af6af6e4fc1d6d77a87ddec0e41c7c045", null ],
+    [ "_threshold_angle", "classblyr__manager.html#ab87122cb794027ef0f2129ad10a76593", null ],
+    [ "_vertices", "classblyr__manager.html#a5b8fb5251aac05f3221cb1c682c8f0bd", null ]
+];

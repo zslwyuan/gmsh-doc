@@ -1,0 +1,10 @@
+<map id="GModel::setCurrentMeshEntity" name="GModel::setCurrentMeshEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="248,165,445,192"/>
+<area shape="rect" id="node2" href="$structmesh_g_edge.html#a6d04691f2698c1ec2217a4d43d835fc9" title=" " alt="" coords="25,5,180,32"/>
+<area shape="rect" id="node3" href="$classmesh_g_face.html#a4bfc8c351e2435d7ba2009ef43313ab7" title=" " alt="" coords="25,56,180,83"/>
+<area shape="rect" id="node4" href="$classmesh_g_region.html#a8a4401e3145ebcf2b3650a3830482ebd" title=" " alt="" coords="20,107,185,133"/>
+<area shape="rect" id="node5" href="$classmesh_g_region_extruded.html#a11325baaa3de82c300cd484b6237a258" title=" " alt="" coords="25,158,180,199"/>
+<area shape="rect" id="node6" href="$classoptimize_mesh_g_region.html#a5f0708b30dcd78b564065fe4cc32c42b" title=" " alt="" coords="27,223,179,265"/>
+<area shape="rect" id="node7" href="$classorient_mesh_g_face.html#a91d56b4567d369ac7af858d84b8055bc" title=" " alt="" coords="9,289,196,316"/>
+<area shape="rect" id="node8" href="$classoptimize_mesh_g_region_netgen.html#ac5c80a7cc7f604e09f51377fe99b5e85" title=" " alt="" coords="5,341,200,382"/>
+</map>

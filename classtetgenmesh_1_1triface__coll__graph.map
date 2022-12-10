@@ -1,0 +1,5 @@
+<map id="tetgenmesh::triface" name="tetgenmesh::triface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,137,197"/>
+<area shape="rect" id="node2" href="$classtetrahedron.html" title=" " alt="" coords="28,81,115,108"/>
+<area shape="rect" id="node3" href="$classelement.html" title=" " alt="" coords="37,5,105,32"/>
+</map>

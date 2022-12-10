@@ -1,0 +1,26 @@
+<map id="distanceTerm" name="distanceTerm">
+<area shape="rect" id="node1" title=" " alt="" coords="110,857,211,884"/>
+<area shape="rect" id="node2" href="$classhelmholtz_term.html" title=" " alt="" coords="77,781,244,808"/>
+<area shape="rect" id="node3" href="$classfem_term.html" title=" " alt="" coords="5,677,140,704"/>
+<area shape="rect" id="node4" href="$class_g_model.html" title=" " alt="" coords="457,573,523,600"/>
+<area shape="rect" id="node11" href="$class_g_entity.html" title=" " alt="" coords="658,677,722,704"/>
+<area shape="rect" id="node19" href="$class_m_element_octree.html" title=" " alt="" coords="360,677,479,704"/>
+<area shape="rect" id="node5" href="$class_g_e_o___internals.html" title=" " alt="" coords="695,424,802,451"/>
+<area shape="rect" id="node6" href="$class_list___t.html" title=" " alt="" coords="726,187,785,213"/>
+<area shape="rect" id="node7" href="$class_tree___t.html" title=" " alt="" coords="612,187,675,213"/>
+<area shape="rect" id="node8" href="$structavl__tree__struct.html" title=" " alt="" coords="589,97,697,124"/>
+<area shape="rect" id="node9" href="$structavl__node__struct.html" title=" " alt="" coords="586,7,701,33"/>
+<area shape="rect" id="node10" href="$classsmooth__normals.html" title=" " alt="" coords="297,424,416,451"/>
+<area shape="rect" id="node12" href="$class_vertex_array.html" title=" " alt="" coords="719,573,808,600"/>
+<area shape="rect" id="node13" href="$class_s_oriented_bounding_box.html" title=" " alt="" coords="832,573,988,600"/>
+<area shape="rect" id="node14" href="$class_s_vector3.html" title=" " alt="" coords="872,424,948,451"/>
+<area shape="rect" id="node15" href="$class_s_point3.html" title=" " alt="" coords="876,187,944,213"/>
+<area shape="rect" id="node16" href="$class_field_manager.html" title=" " alt="" coords="440,424,540,451"/>
+<area shape="rect" id="node17" title=" " alt="" coords="415,187,565,213"/>
+<area shape="rect" id="node18" href="$class_o_c_c___internals.html" title=" " alt="" coords="565,424,671,451"/>
+<area shape="rect" id="node20" href="$class_octree.html" title=" " alt="" coords="150,573,211,600"/>
+<area shape="rect" id="node21" href="$structglobal.html" title=" " alt="" coords="70,424,126,451"/>
+<area shape="rect" id="node22" href="$structbucket.html" title=" " alt="" coords="150,424,211,451"/>
+<area shape="rect" id="node23" href="$structelem.html" title=" " alt="" coords="155,187,206,213"/>
+<area shape="rect" id="node24" href="$classsimple_function.html" title=" " alt="" coords="165,677,335,704"/>
+</map>

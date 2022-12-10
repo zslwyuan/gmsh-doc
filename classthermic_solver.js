@@ -1,0 +1,26 @@
+var classthermic_solver =
+[
+    [ "thermicSolver", "classthermic_solver.html#a4abe50ea5640bc00eccb1796a3893c24", null ],
+    [ "~thermicSolver", "classthermic_solver.html#af27191de9128a62122e715daced3c9cd", null ],
+    [ "assemble", "classthermic_solver.html#ae6abd7db0286e1b6c23b1e428f027e04", null ],
+    [ "changeLMTau", "classthermic_solver.html#a15d8e10f123a79dd2dfdaf9ab90f349e", null ],
+    [ "computeL2Norm", "classthermic_solver.html#a3e4115d7ba945a856a5c985b3c3ca22e", null ],
+    [ "computeLagNorm", "classthermic_solver.html#a6253f9af599ed88cd35c6c572eea2986", null ],
+    [ "cutMesh", "classthermic_solver.html#a42e0f415005d7b78ffb12852767a5a10", null ],
+    [ "setEdgeTemp", "classthermic_solver.html#acc8753be2a535d2fefa846d523caea31", null ],
+    [ "setFaceTemp", "classthermic_solver.html#a0167f4050b3e63b97b8ca99033b4add1", null ],
+    [ "setLagrangeMultipliers", "classthermic_solver.html#af71aa7a3c09c72b1a2d124db23e8702a", null ],
+    [ "setMesh", "classthermic_solver.html#aa5b2db1c5af996d2b82d78bfa54b65c3", null ],
+    [ "setThermicDomain", "classthermic_solver.html#a2515c8172370fbc96b48aa4cf96cccba", null ],
+    [ "solve", "classthermic_solver.html#a6a718df7e5de79b93f04435e91874f07", null ],
+    [ "_dim", "classthermic_solver.html#abe920d89e2251f5c70a7646cab3eb147", null ],
+    [ "_tag", "classthermic_solver.html#a0505a8a8880fb2c1d2de6a0bb8e2d1b1", null ],
+    [ "allDirichlet", "classthermic_solver.html#a4f5f86a312c4f33818bbd648b6d8379b", null ],
+    [ "allNeumann", "classthermic_solver.html#a255a14b1065d7a14c3536c858162c9a5", null ],
+    [ "LagrangeMultiplierFields", "classthermic_solver.html#a9a0e1611bc7fe1afb96aa5acd01386b1", null ],
+    [ "LagrangeMultiplierSpace", "classthermic_solver.html#a10cae227d85d7d34dfd8e9b5fc41c52f", null ],
+    [ "LagSpace", "classthermic_solver.html#a3f577297f8fcc2756740326244ed3b6c", null ],
+    [ "pAssembler", "classthermic_solver.html#a3d05effc701e876a3c432b05b107910a", null ],
+    [ "pModel", "classthermic_solver.html#ac4395b0f82b590a6fca24a5d0165dd42", null ],
+    [ "thermicFields", "classthermic_solver.html#a6da66434f0aa51e975457f979708a0ac", null ]
+];

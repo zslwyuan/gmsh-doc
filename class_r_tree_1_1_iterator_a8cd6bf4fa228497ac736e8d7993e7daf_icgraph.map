@@ -1,0 +1,5 @@
+<map id="RTree::Iterator::IsNotNull" name="RTree::Iterator::IsNotNull">
+<area shape="rect" id="node1" title="Is iterator pointing to valid data." alt="" coords="228,31,393,57"/>
+<area shape="rect" id="node2" href="$class_r_tree_1_1_iterator.html#a65121f5016c2b1bf4696797748092709" title="Get the bounds for this node." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$class_r_tree_1_1_iterator.html#abb61d3a8396473b543cb15aa9002cfeb" title="Access the current data element. Caller must be sure iterator is not NULL first." alt="" coords="11,56,174,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MVertexRTree" name="MVertexRTree">
+<area shape="rect" id="node1" title=" " alt="" coords="39,257,145,284"/>
+<area shape="rect" id="node2" href="$class_r_tree.html" title=" " alt="" coords="5,139,179,180"/>
+<area shape="rect" id="node3" href="$struct_r_tree_1_1_node.html" title="Node for each branch level." alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node4" href="$struct_r_tree_1_1_branch.html" title=" " alt="" coords="203,124,421,195"/>
+<area shape="rect" id="node5" href="$struct_r_tree_1_1_rect.html" title="Minimal bounding rectangle (n&#45;dimensional)" alt="" coords="273,5,511,61"/>
+</map>

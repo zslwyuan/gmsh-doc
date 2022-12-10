@@ -1,0 +1,7 @@
+<map id="GEntity::periodic" name="GEntity::periodic">
+<area shape="rect" id="node1" title=" " alt="" coords="452,63,567,90"/>
+<area shape="rect" id="node2" href="$class_surface_projector.html#a34a48bd4e9d10400993e2901dc17e30d" title="Fill the triangles and uvs from the triangles, then build the octree. Overwrite existing triangulatio..." alt="" coords="229,13,399,39"/>
+<area shape="rect" id="node4" href="$class_g_face.html#ae6fb538f16edcfe0e7080eb96ba2f214" title=" " alt="" coords="224,63,404,90"/>
+<area shape="rect" id="node5" href="$classmesh_g_face.html#a4bfc8c351e2435d7ba2009ef43313ab7" title=" " alt="" coords="237,114,391,141"/>
+<area shape="rect" id="node3" href="$class_surface_projector.html#aae6eea8f0c2e80893bba784dd813cdc6" title=" " alt="" coords="5,5,176,47"/>
+</map>

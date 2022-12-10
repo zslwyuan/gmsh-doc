@@ -1,0 +1,52 @@
+<map id="SVector3::normSq" name="SVector3::normSq">
+<area shape="rect" id="node1" title=" " alt="" coords="1061,1012,1188,1039"/>
+<area shape="rect" id="node2" href="$class_m_element.html#a364fe355162a9e26627d36d002e7bab4" title=" " alt="" coords="292,199,463,225"/>
+<area shape="rect" id="node3" href="$class_s_vector3.html#aae50839c5cad5cf7a26fd874f4f8dd68" title=" " alt="" coords="858,857,969,884"/>
+<area shape="rect" id="node7" href="$mesh_quad_quasi_structured_8h.html#a0da1702a342fc7c54bc34de37b12b197" title="Identify face acute corners and set the first curve mesh vertices at same length from corner." alt="" coords="5,157,216,184"/>
+<area shape="rect" id="node44" href="$class_m_element.html#a20862ee840ad26cea3a4ce7c09e48f85" title=" " alt="" coords="822,1320,1005,1347"/>
+<area shape="rect" id="node46" href="$class_m_element.html#a640fe5584fd36469007dcbf4afbcb8e8" title=" " alt="" coords="813,1525,1013,1566"/>
+<area shape="rect" id="node49" href="$_g_edge_8cpp.html#aeb1cb308e608e1be382a203caac116a9" title=" " alt="" coords="843,1612,984,1639"/>
+<area shape="rect" id="node4" href="$class_g_edge.html#a92358b458af4d57c762c690d8ef35a41" title=" " alt="" coords="308,81,447,108"/>
+<area shape="rect" id="node9" href="$classmesh_metric.html#a7de9bb93fc6118867b98006cad84a39e" title=" " alt="" coords="561,386,743,427"/>
+<area shape="rect" id="node12" href="$classdiscrete_face.html#ac482f369c41f37d927cc6967a10ea2f7" title=" " alt="" coords="295,1447,459,1473"/>
+<area shape="rect" id="node14" href="$classblyr__manager.html#aa73d9e483598ebc7c165595f47e1eda3" title=" " alt="" coords="304,1498,451,1539"/>
+<area shape="rect" id="node16" href="$_g_model_auto_extrude_8cpp.html#a4ef5ccaf20a312d6d454b006d683b246" title=" " alt="" coords="571,553,733,580"/>
+<area shape="rect" id="node18" href="$_g_edge_8cpp.html#a219032fa77b27993877730af43c86db6" title=" " alt="" coords="579,284,725,311"/>
+<area shape="rect" id="node19" href="$mesh_g_face_delaunay_insertion_8cpp.html#ab900febe3e84fe3a1f6b195454454cfc" title=" " alt="" coords="602,452,702,479"/>
+<area shape="rect" id="node21" href="$_numeric_8h.html#abc4a90779adf786d3631bdcedf3ec90b" title="3D VERSION" alt="" coords="575,756,729,783"/>
+<area shape="rect" id="node22" href="$classdiscrete_face.html#a8766d115e90c10bf7dd3da968f280ba1" title=" " alt="" coords="292,1381,463,1422"/>
+<area shape="rect" id="node23" href="$mesh_g_face_delaunay_insertion_8cpp.html#ac8ec57cc76d077f695ec1213acf3add8" title=" " alt="" coords="39,1329,182,1356"/>
+<area shape="rect" id="node24" href="$class_m_edge.html#aaa5b64ff002d2c4273828f4bc3c917e3" title=" " alt="" coords="601,335,703,361"/>
+<area shape="rect" id="node25" href="$class_s_bounding_box3d.html#a64e98c766b295cf4326aa63166cc83e4" title=" " alt="" coords="557,503,747,529"/>
+<area shape="rect" id="node29" href="$class_m_element.html#a5c6d6be90f20af69c5ec9518126d4d90" title=" " alt="" coords="555,604,749,631"/>
+<area shape="rect" id="node32" href="$mesh_g_edge_8cpp.html#a189e8ac7f82ad7a9dfb919f43b1e9a56" title=" " alt="" coords="573,655,731,681"/>
+<area shape="rect" id="node34" href="$_b_d_s_8cpp.html#aa4f05a01b7e85efcfce492328d93f8fc" title=" " alt="" coords="569,908,735,935"/>
+<area shape="rect" id="node35" href="$structmy_line.html#aca022f9115a4bc275edb6cf7b2f0102f" title=" " alt="" coords="321,1177,433,1204"/>
+<area shape="rect" id="node36" href="$class_s_vector3.html#a1d89439957d6b86f8acaf7f9ced32cd6" title=" " alt="" coords="583,1279,721,1305"/>
+<area shape="rect" id="node37" href="$hausdorff_distance_8cpp.html#ab88b748d1f4c55d87ff2bd5c337bbf78" title=" " alt="" coords="286,1228,469,1255"/>
+<area shape="rect" id="node38" href="$quality_measures_8cpp.html#a40ef76b554ab2d9c20ba0eb3a4e4205e" title=" " alt="" coords="612,1009,692,1036"/>
+<area shape="rect" id="node39" href="$struct_recombine_triangle.html#a0bd835aae32330d6b9e763aad87bb6db" title=" " alt="" coords="583,1061,721,1102"/>
+<area shape="rect" id="node40" href="$class_g_edge.html#a809803f03980d0f05e060eff1b325fdc" title=" " alt="" coords="574,807,730,833"/>
+<area shape="rect" id="node41" href="$class_g_edge.html#ad6fd636de36db2109afc385faac53f22" title=" " alt="" coords="318,799,437,825"/>
+<area shape="rect" id="node42" href="$class_g_face.html#a0bacddb48025ee5ef62e85da73d6b874" title=" " alt="" coords="299,908,456,935"/>
+<area shape="rect" id="node43" href="$class_g_edge.html#a0f2a432fb255155592094d8a04278425" title=" " alt="" coords="573,959,731,985"/>
+<area shape="rect" id="node5" href="$_geom_mesh_matcher_8cpp.html#a057436481e339c64b63a4c1ca0ae60dd" title=" " alt="" coords="59,56,162,83"/>
+<area shape="rect" id="node6" href="$_geom_mesh_matcher_8cpp.html#a90a6af5744f92775f603b23dea618953" title=" " alt="" coords="71,107,150,133"/>
+<area shape="rect" id="node8" href="$_generator_8cpp.html#abf4b52e9c466f44f01a76ed774c1fe93" title=" " alt="" coords="36,5,185,32"/>
+<area shape="rect" id="node10" href="$classmesh_metric.html#abebcfb5da8d07edf812ed6ff44e2e41b" title=" " alt="" coords="286,259,469,285"/>
+<area shape="rect" id="node11" href="$classmesh_metric.html#aabefd7f6d07af72714208c8454a38da2" title=" " alt="" coords="302,309,453,336"/>
+<area shape="rect" id="node13" href="$classdiscrete_face.html#aca5f94e7c26433a4c2f297cd45f3a2d8" title=" " alt="" coords="20,1447,201,1473"/>
+<area shape="rect" id="node15" href="$mesh_g_region_boundary_layer_8cpp.html#a1a6a6174f4d14034f830c00444853dbb" title=" " alt="" coords="11,1505,211,1532"/>
+<area shape="rect" id="node17" href="$class_g_model.html#a8c13a08d5209733d29d4853117d08ab5" title=" " alt="" coords="274,563,481,605"/>
+<area shape="rect" id="node20" href="$mesh_g_face_delaunay_insertion_8cpp.html#a912a2a52742781c8c3481dab418b3fb8" title=" " alt="" coords="331,360,424,387"/>
+<area shape="rect" id="node26" href="$mesh_g_face_8cpp.html#adb5d4b7ede7a455948eee036a792e9c9" title=" " alt="" coords="322,411,433,437"/>
+<area shape="rect" id="node27" href="$mesh_g_face_8cpp.html#aa70cb2aa2e9e32d13afb74ef1d0bab1f" title=" " alt="" coords="298,461,457,488"/>
+<area shape="rect" id="node28" href="$_octree_post_8cpp.html#a90629ce9c93d6e462a877fb95b9a5287" title=" " alt="" coords="344,512,411,539"/>
+<area shape="rect" id="node30" href="$_g_model_vertex_arrays_8cpp.html#adff12191c0b671ef10d32e5560e36ba2" title=" " alt="" coords="305,629,450,656"/>
+<area shape="rect" id="node31" href="$_g_model_vertex_arrays_8cpp.html#a1f598d318dadc43801ec47c4870aeb3e" title=" " alt="" coords="309,680,446,707"/>
+<area shape="rect" id="node33" href="$mesh_g_edge_8h.html#a1bda4bb46b9444c83c943f792860450b" title=" " alt="" coords="264,731,491,757"/>
+<area shape="rect" id="node45" href="$class_m_element.html#a71cc8e9fd56bf4b016135d06ccc38c3b" title=" " alt="" coords="551,1481,753,1508"/>
+<area shape="rect" id="node47" href="$class_m_element.html#a715bbea2a53a8a3b60110920ef4ddcb4" title=" " alt="" coords="572,1532,732,1559"/>
+<area shape="rect" id="node48" href="$class_m_element.html#aead5259d3796d1e238b0d6dcc2e1abba" title=" " alt="" coords="539,1583,765,1609"/>
+<area shape="rect" id="node50" href="$_g_edge_8cpp.html#a472d7cd756bd722259fe5638f65bbb73" title=" " alt="" coords="610,1633,694,1660"/>
+</map>

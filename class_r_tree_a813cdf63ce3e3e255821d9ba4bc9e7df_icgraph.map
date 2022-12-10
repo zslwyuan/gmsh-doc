@@ -1,0 +1,4 @@
+<map id="RTree::Count" name="RTree::Count">
+<area shape="rect" id="node1" title="Count the data elements in this container. This is slow as no internal counter is maintained." alt="" coords="188,5,285,32"/>
+<area shape="rect" id="node2" href="$class_m_vertex_r_tree.html#a3e6350695f86e6249438779f84ca184a" title=" " alt="" coords="5,5,140,32"/>
+</map>

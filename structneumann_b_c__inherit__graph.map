@@ -1,0 +1,4 @@
+<map id="neumannBC" name="neumannBC">
+<area shape="rect" id="node1" title=" " alt="" coords="24,80,117,107"/>
+<area shape="rect" id="node2" href="$struct_boundary_condition.html" title=" " alt="" coords="5,5,136,32"/>
+</map>

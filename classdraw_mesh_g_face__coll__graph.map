@@ -1,0 +1,8 @@
+<map id="drawMeshGFace" name="drawMeshGFace">
+<area shape="rect" id="node1" title=" " alt="" coords="154,332,275,359"/>
+<area shape="rect" id="node2" href="$classdraw_context.html" title=" " alt="" coords="167,243,262,269"/>
+<area shape="rect" id="node3" href="$classdraw_context_global.html" title=" " alt="" coords="5,153,136,180"/>
+<area shape="rect" id="node4" href="$classdraw_transform.html" title=" " alt="" coords="160,153,269,180"/>
+<area shape="rect" id="node5" href="$class_camera.html" title=" " alt="" coords="293,153,360,180"/>
+<area shape="rect" id="node6" href="$class_x_y_z.html" title=" " alt="" coords="303,5,351,32"/>
+</map>

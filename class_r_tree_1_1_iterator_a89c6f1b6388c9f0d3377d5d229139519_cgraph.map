@@ -1,0 +1,7 @@
+<map id="RTree::Iterator::operator&#45;&#45;" name="RTree::Iterator::operator&#45;&#45;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node2" href="$class_r_tree_1_1_iterator.html#aadb8c2a9c39120570c2543c84e37aca7" title=" " alt="" coords="219,49,381,90"/>
+<area shape="rect" id="node3" href="$struct_r_tree_1_1_node.html#a3e34e35a8482978d456885d4bac76de4" title=" " alt="" coords="431,5,568,32"/>
+<area shape="rect" id="node4" href="$class_r_tree_1_1_iterator.html#a6f75eaf8c9ebe60f4a8cacbb7f4998fe" title="Pop element off iteration stack (For internal use only)" alt="" coords="433,56,566,83"/>
+<area shape="rect" id="node5" href="$class_r_tree_1_1_iterator.html#afb35dcd6c652052684d5e8801d9cda7c" title="Push node and branch onto iteration stack (For internal use only)" alt="" coords="429,107,569,133"/>
+</map>

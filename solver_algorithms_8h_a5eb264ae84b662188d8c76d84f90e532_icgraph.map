@@ -1,0 +1,9 @@
+<map id="FixNodalDofs" name="FixNodalDofs">
+<area shape="rect" id="node1" title=" " alt="" coords="632,81,732,108"/>
+<area shape="rect" id="node2" href="$classthermic_solver.html#ae6abd7db0286e1b6c23b1e428f027e04" title=" " alt="" coords="420,5,584,32"/>
+<area shape="rect" id="node4" href="$classelasticity_solver.html#aff3722ae5c8ca5bd5bf697dd119ef022" title=" " alt="" coords="200,107,372,133"/>
+<area shape="rect" id="node6" href="$solver_algorithms_8h.html#a49458faed3a91dfe7f8defb1d776398c" title=" " alt="" coords="452,107,552,133"/>
+<area shape="rect" id="node7" href="$solver_algorithms_8h.html#aa21ba04fb499f38719128fdc24b6e4ff" title=" " alt="" coords="439,157,565,184"/>
+<area shape="rect" id="node3" href="$classthermic_solver.html#a6a718df7e5de79b93f04435e91874f07" title=" " alt="" coords="217,5,355,32"/>
+<area shape="rect" id="node5" href="$classelasticity_solver.html#a10c3989d046cd456639ba2e9fc6a9bb8" title=" " alt="" coords="5,107,152,133"/>
+</map>

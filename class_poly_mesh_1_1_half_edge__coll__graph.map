@@ -1,0 +1,7 @@
+<map id="PolyMesh::HalfEdge" name="PolyMesh::HalfEdge">
+<area shape="rect" id="node1" title=" " alt="" coords="41,103,180,130"/>
+<area shape="rect" id="node2" href="$class_poly_mesh_1_1_face.html" title=" " alt="" coords="5,201,120,228"/>
+<area shape="rect" id="node3" href="$class_poly_mesh_1_1_vertex.html" title=" " alt="" coords="144,201,267,228"/>
+<area shape="rect" id="node4" href="$class_s_vector3.html" title=" " alt="" coords="278,103,354,130"/>
+<area shape="rect" id="node5" href="$class_s_point3.html" title=" " alt="" coords="282,5,350,32"/>
+</map>

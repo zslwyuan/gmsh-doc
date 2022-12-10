@@ -1,0 +1,7 @@
+<map id="SOrientedBoundingBox::SOrientedBoundingBox" name="SOrientedBoundingBox::SOrientedBoundingBox">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,168,145"/>
+<area shape="rect" id="node2" href="$class_s_oriented_bounding_box.html#a47bb56c08d135f174b8c8d5b90048594" title=" " alt="" coords="216,5,372,47"/>
+<area shape="rect" id="node3" href="$class_s_oriented_bounding_box.html#a527bc7499db0e80855b9744ad3663d72" title="valid values for axis are 0 (X&#45;axis), 1 (Y&#45;axis) or 2 (Z&#45;axis)" alt="" coords="216,71,372,112"/>
+<area shape="rect" id="node4" href="$class_s_oriented_bounding_box.html#a7d54eb0eefedf3354f86949281421256" title=" " alt="" coords="216,136,372,177"/>
+<area shape="rect" id="node5" href="$class_s_oriented_bounding_box.html#afa7b94465a12772814828757538c4958" title=" " alt="" coords="216,201,372,243"/>
+</map>

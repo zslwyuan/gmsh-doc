@@ -1,0 +1,26 @@
+var _o_s_8cpp =
+[
+    [ "CheckResources", "_o_s_8cpp.html#a2a8e879a14ad3c4934cbbcff987cc8a8", null ],
+    [ "Cpu", "_o_s_8cpp.html#aa539d0fea7e3cd903f638a48790fe52e", null ],
+    [ "CreatePath", "_o_s_8cpp.html#af50d2a7d0f6010c30cb55673ac7ff6cc", null ],
+    [ "CreateSingleDir", "_o_s_8cpp.html#a1bb4c15675c49ad5f996ded72c4eac97", null ],
+    [ "Fopen", "_o_s_8cpp.html#a8e4bd109f863a749c3bf324e637ec86c", null ],
+    [ "GetAbsolutePath", "_o_s_8cpp.html#ab8cf9d440a79e571993b18634f466bd6", null ],
+    [ "GetEnvironmentVar", "_o_s_8cpp.html#afab6ee9e04191413562ca21a42713920", null ],
+    [ "GetExecutableFileName", "_o_s_8cpp.html#ab939c8597afdcc689900cc5c544e8cf9", null ],
+    [ "GetHostName", "_o_s_8cpp.html#a6ded1af4d0058804821c80c5638fd409", null ],
+    [ "GetMemoryUsage", "_o_s_8cpp.html#a2512743f552ad2bf91d820f6ee2eb5b7", null ],
+    [ "GetProcessId", "_o_s_8cpp.html#a0cba42951cc048372af72abd019e8ce5", null ],
+    [ "GetResources", "_o_s_8cpp.html#a4a897390b8d7b550f754a4bc993e2fee", null ],
+    [ "KillProcess", "_o_s_8cpp.html#ae61eb2cf869e76169384ff22deed5bf2", null ],
+    [ "RedirectIOToConsole", "_o_s_8cpp.html#ac84fe5c6953ab6180db4181c4f34ffcb", null ],
+    [ "SetEnvironmentVar", "_o_s_8cpp.html#a9d3eee126f403bf6e02c141a26a11f63", null ],
+    [ "SleepInSeconds", "_o_s_8cpp.html#a1144152cd6aa6c76eb97094168df1d51", null ],
+    [ "StatFile", "_o_s_8cpp.html#a5c007b2c9770f5758a62535325089fac", null ],
+    [ "SystemCall", "_o_s_8cpp.html#acfb400ea76fb932f305b447c958c919d", null ],
+    [ "SystemCallExe", "_o_s_8cpp.html#a4915d8b346f4842975dd0336e1b063c1", null ],
+    [ "TimeOfDay", "_o_s_8cpp.html#a99c5ab77eb7b0b334815f4fa8b3a8d03", null ],
+    [ "TotalRam", "_o_s_8cpp.html#a8c2268aa5e1cb79168589015d948d9df", null ],
+    [ "UnlinkFile", "_o_s_8cpp.html#ae2a5d949a680711fff6911d01e81547b", null ],
+    [ "UnzipFile", "_o_s_8cpp.html#a8ef4337fb12c7e72822ea8cfde82aee9", null ]
+];

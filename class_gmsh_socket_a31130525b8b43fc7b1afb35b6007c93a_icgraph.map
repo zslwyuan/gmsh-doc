@@ -1,0 +1,52 @@
+<map id="GmshSocket::Info" name="GmshSocket::Info">
+<area shape="rect" id="node1" title=" " alt="" coords="1080,2029,1207,2055"/>
+<area shape="rect" id="node2" href="$classonelab_1_1remote_network_client.html#a49c37ffd5efcac2f8fe4670311fa5ef8" title=" " alt="" coords="844,64,1032,105"/>
+<area shape="rect" id="node5" href="$class_msg.html#a93c6f0edcb3a0fa5210dd4838ab23eb7" title=" " alt="" coords="893,1167,983,1194"/>
+<area shape="rect" id="node46" href="$class_msg.html#a2d442c3fbcc57ebcb1ba7714403ca269" title=" " alt="" coords="895,1978,981,2005"/>
+<area shape="rect" id="node47" href="$class_msg.html#a0eaa0291866b63f40561d1d6e91dd62b" title=" " alt="" coords="901,2029,975,2055"/>
+<area shape="rect" id="node48" href="$classonelab_1_1remote_network_client.html#a5a751d7cea7ae8b97ddac507494756d0" title=" " alt="" coords="844,2080,1032,2121"/>
+<area shape="rect" id="node49" href="$class_msg.html#a2203001b1ac23e20c9efc5341e4b4097" title=" " alt="" coords="883,2146,993,2173"/>
+<area shape="rect" id="node50" href="$classonelab_1_1remote_network_client.html#adf586c5469015c5e4f5566d3e1c6b10c" title=" " alt="" coords="844,2197,1032,2239"/>
+<area shape="rect" id="node3" href="$classonelab_1_1remote_network_client.html#aa5a8825782bfa079725bc2ce4adabc1d" title=" " alt="" coords="573,71,785,98"/>
+<area shape="rect" id="node4" href="$classonelab_1_1remote_network_client.html#a631569391e31b0ffba4531fff4c1db1a" title=" " alt="" coords="585,5,773,47"/>
+<area shape="rect" id="node6" href="$class_cell_complex.html#a24559e37e57a0b35cd0e8fe9b51c84f6" title=" " alt="" coords="601,1775,756,1802"/>
+<area shape="rect" id="node7" href="$class_cell_complex.html#ab89420e52dea48137719c8ded91b74c9" title=" " alt="" coords="311,1953,513,1979"/>
+<area shape="rect" id="node8" href="$class_g_model.html#abecfde65d70fb1ef71fc058fa6c0ce72" title=" " alt="" coords="341,781,483,807"/>
+<area shape="rect" id="node9" href="$class_g_model.html#a652c94b77bdfcc7cca01a2274de68f83" title=" " alt="" coords="607,1978,750,2005"/>
+<area shape="rect" id="node10" href="$class_g_model.html#ab4866fbef12a6597a68b8373a79c9580" title=" " alt="" coords="607,2029,750,2055"/>
+<area shape="rect" id="node11" href="$mesh_g_face_optimize_8cpp.html#ad4e898f1e3c2472adf3f30de3e74c1c6" title=" " alt="" coords="604,1877,753,1903"/>
+<area shape="rect" id="node12" href="$class_cell_complex.html#ac32110374946e58e1ebb94b5d143777c" title=" " alt="" coords="589,629,768,655"/>
+<area shape="rect" id="node13" href="$class_cell_complex.html#ab310ae68d25273fa5e01079edbb1c75e" title=" " alt="" coords="326,654,498,681"/>
+<area shape="rect" id="node14" href="$class_g_model.html#a00b4682a6695c97ee78671ef5cff56b8" title=" " alt="" coords="581,832,776,873"/>
+<area shape="rect" id="node15" href="$class_g_model.html#a7d7c8cad7c74f09d0c1fe27c422b12f9" title=" " alt="" coords="573,730,785,757"/>
+<area shape="rect" id="node16" href="$classbackground_mesh.html#aebceba01852a1c1c4855a4eaf4258251" title=" " alt="" coords="565,949,792,975"/>
+<area shape="rect" id="node17" href="$classblyr__manager.html#a2a77ef1ad6cac74fead6e17f7b53ee79" title=" " alt="" coords="616,1000,741,1041"/>
+<area shape="rect" id="node18" href="$mesh_g_face_delaunay_insertion_8h.html#a1cbc01edfd7c117f41ff2a8613344655" title=" " alt="" coords="625,1066,732,1093"/>
+<area shape="rect" id="node19" href="$mesh_g_face_delaunay_insertion_8h.html#afeec2db6391186e06ad9b8634d31ae20" title=" " alt="" coords="337,982,487,1009"/>
+<area shape="rect" id="node20" href="$mesh_g_face_delaunay_insertion_8h.html#afcf66930fa01b533276e0a478f56acc3" title=" " alt="" coords="605,1117,752,1143"/>
+<area shape="rect" id="node21" href="$mesh_g_face_delaunay_insertion_8h.html#afc0f0f57d460b73361a10672b8606629" title=" " alt="" coords="585,1167,772,1194"/>
+<area shape="rect" id="node22" href="$mesh_g_face_delaunay_insertion_8h.html#aa74c1a470a04a43ddaf238aceed54643" title=" " alt="" coords="582,1927,775,1954"/>
+<area shape="rect" id="node23" href="$mesh_g_face_transfinite_8cpp.html#a4438f46c7e13bff956aa7c13bddc3d1b" title=" " alt="" coords="631,1218,726,1245"/>
+<area shape="rect" id="node24" href="$mesh_g_face_8cpp.html#a3c3ef63f1ff09654b153b2e937cc6981" title=" " alt="" coords="576,1269,781,1295"/>
+<area shape="rect" id="node25" href="$class_surface_projector.html#a3235387fdcc02e66435a308b509df107" title="Clear the triangulation and delete the octree." alt="" coords="602,1319,755,1346"/>
+<area shape="rect" id="node26" href="$class_cell_complex.html#a7b9cec394bfcf3259c953354cf77255d" title=" " alt="" coords="597,2079,760,2106"/>
+<area shape="rect" id="node27" href="$class_cell_complex.html#afff79d9b21482ea8bdbd2ec7c820c83d" title=" " alt="" coords="603,1725,754,1751"/>
+<area shape="rect" id="node28" href="$class_cell_complex.html#a71705345d036fa3c27cfa88090e46b81" title=" " alt="" coords="604,2130,753,2157"/>
+<area shape="rect" id="node29" href="$class_g_face.html#afcaa221592d33be17b52993c5fb4959a" title=" " alt="" coords="587,1370,770,1397"/>
+<area shape="rect" id="node30" href="$_g_model_parametrize_8h.html#a4295b0582d168c1d9f7a28c0a4c59449" title=" " alt="" coords="597,1421,760,1447"/>
+<area shape="rect" id="node31" href="$class_cell_complex.html#adfd68f0878d8ba74ad24f3c7790f6186" title=" " alt="" coords="595,1471,762,1498"/>
+<area shape="rect" id="node32" href="$gl2gif_8h.html#ab1cd19ebabd3704d7cd26f67dd3f4d4c" title=" " alt="" coords="639,1522,718,1549"/>
+<area shape="rect" id="node33" href="$classdiscrete_edge.html#ac6a2a0bc2c4b4002b3a916e40f5989b4" title=" " alt="" coords="581,1573,776,1599"/>
+<area shape="rect" id="node34" href="$_g_model_create_topology_from_mesh_8cpp.html#ac96a7328287de6a8e8e971f8c341950a" title=" " alt="" coords="585,1623,773,1650"/>
+<area shape="rect" id="node35" href="$class_g_model.html#a7d0a169ab09e097dffffea4ba8df6393" title=" " alt="" coords="622,173,735,199"/>
+<area shape="rect" id="node36" href="$classdraw_context.html#aeb68f197047d14d0b8c0f399bdc2b075" title=" " alt="" coords="313,56,511,97"/>
+<area shape="rect" id="node37" href="$classdraw_context.html#a22da902af4e2f9b20134b11b7516bc5a" title=" " alt="" coords="330,223,494,250"/>
+<area shape="rect" id="node38" href="$_geo_8cpp.html#acac000828aafbaae92797d9f6196b94b" title=" " alt="" coords="164,299,263,326"/>
+<area shape="rect" id="node39" href="$_geo_8cpp.html#a87a318abdff71d0886ca0a29c2562659" title=" " alt="" coords="5,299,116,326"/>
+<area shape="rect" id="node40" href="$_geo_8cpp.html#ae9fd3be745308415cc10013ca531bda4" title=" " alt="" coords="365,274,459,301"/>
+<area shape="rect" id="node41" href="$class_g_model.html#aa09530b4c3783d39d56f27961fe2c7d4" title=" " alt="" coords="621,375,736,402"/>
+<area shape="rect" id="node42" href="$draw_post_8cpp.html#ab064dfc6737331c87fc6e294c9b8e4c7" title=" " alt="" coords="633,426,724,453"/>
+<area shape="rect" id="node43" href="$classdraw_context.html#a417e8a794fa5e56c8f14447327732d1c" title=" " alt="" coords="599,477,759,503"/>
+<area shape="rect" id="node44" href="$classdraw_context.html#aa97404be6c4105cd431a70734d3296b7" title=" " alt="" coords="601,527,756,554"/>
+<area shape="rect" id="node45" href="$class_g_model.html#a2a02d6f88ee4b5d3f1d37a5bf806fb30" title=" " alt="" coords="561,578,796,605"/>
+</map>

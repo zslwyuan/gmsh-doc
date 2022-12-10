@@ -1,0 +1,11 @@
+<map id="element" name="element">
+<area shape="rect" id="node1" title=" " alt="" coords="295,5,363,32"/>
+<area shape="rect" id="node2" href="$classhexahedron.html" title=" " alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node3" href="$classline.html" title=" " alt="" coords="117,80,160,107"/>
+<area shape="rect" id="node4" href="$classpoint.html" title=" " alt="" coords="184,80,235,107"/>
+<area shape="rect" id="node5" href="$classprism.html" title=" " alt="" coords="259,80,314,107"/>
+<area shape="rect" id="node6" href="$classpyramid.html" title=" " alt="" coords="339,80,405,107"/>
+<area shape="rect" id="node7" href="$classquadrangle.html" title=" " alt="" coords="429,80,515,107"/>
+<area shape="rect" id="node8" href="$classtetrahedron.html" title=" " alt="" coords="539,80,626,107"/>
+<area shape="rect" id="node9" href="$classtriangle.html" title=" " alt="" coords="651,80,715,107"/>
+</map>

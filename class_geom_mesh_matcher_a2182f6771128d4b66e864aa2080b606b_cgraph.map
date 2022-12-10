@@ -1,0 +1,35 @@
+<map id="GeomMeshMatcher::matchRegions" name="GeomMeshMatcher::matchRegions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,431,231,457"/>
+<area shape="rect" id="node2" href="$class_s_oriented_bounding_box.html#aa380878078f557df90eb5ec1af968b54" title=" " alt="" coords="279,206,435,247"/>
+<area shape="rect" id="node14" href="$class_g_model.html#ad533847fc63a5e3266bc4199492a21f0" title=" " alt="" coords="289,405,424,432"/>
+<area shape="rect" id="node15" href="$class_msg.html#a0eaa0291866b63f40561d1d6e91dd62b" title=" " alt="" coords="319,456,394,483"/>
+<area shape="rect" id="node32" href="$class_g_entity.html#a4df0e133428e940fedf703c6f4301e90" title=" " alt="" coords="301,557,412,584"/>
+<area shape="rect" id="node3" href="$_s_tensor3_8h.html#a36af3eeb8b0c5d5feebe68b18ab540fd" title=" " alt="" coords="541,56,581,83"/>
+<area shape="rect" id="node10" href="$class_s_oriented_bounding_box.html#a527bc7499db0e80855b9744ad3663d72" title="valid values for axis are 0 (X&#45;axis), 1 (Y&#45;axis) or 2 (Z&#45;axis)" alt="" coords="483,107,639,149"/>
+<area shape="rect" id="node11" href="$class_s_oriented_bounding_box.html#a7d54eb0eefedf3354f86949281421256" title=" " alt="" coords="483,173,639,214"/>
+<area shape="rect" id="node12" href="$class_s_oriented_bounding_box.html#afa7b94465a12772814828757538c4958" title=" " alt="" coords="483,238,639,279"/>
+<area shape="rect" id="node13" href="$gmsh_levelset_8cpp.html#afc4bb4ec638cfba7b31e474ac54bd9f7" title=" " alt="" coords="535,304,586,331"/>
+<area shape="rect" id="node4" href="$class_s_vector3.html#a338e6c80965f82f6ad49386b6d01103e" title=" " alt="" coords="727,5,815,32"/>
+<area shape="rect" id="node6" href="$class_s_vector3.html#a53f4d6e546e7c9d37e82fa9665916210" title=" " alt="" coords="727,56,815,83"/>
+<area shape="rect" id="node8" href="$class_s_vector3.html#ac37fc6df828a93881197568ff56a80f0" title=" " alt="" coords="727,107,815,133"/>
+<area shape="rect" id="node5" href="$class_s_point3.html#a829b1afa2492cb5ff5e9ededfc73ccd3" title=" " alt="" coords="956,5,1036,32"/>
+<area shape="rect" id="node7" href="$class_s_point3.html#a7825d605d07475f59fc37d0c4bfe98f4" title=" " alt="" coords="956,56,1036,83"/>
+<area shape="rect" id="node9" href="$class_s_point3.html#a3ab3d52e07fe1efb820872ce04845833" title=" " alt="" coords="956,107,1036,133"/>
+<area shape="rect" id="node16" href="$class_msg.html#a5fa4bbe64f98f5626ea1be8b97a533fb" title=" " alt="" coords="489,355,632,381"/>
+<area shape="rect" id="node17" href="$class_msg.html#ac471037b7525047b26c80aeff6c32553" title=" " alt="" coords="497,405,625,432"/>
+<area shape="rect" id="node18" href="$class_gmsh_socket.html#a31130525b8b43fc7b1afb35b6007c93a" title=" " alt="" coords="497,456,624,483"/>
+<area shape="rect" id="node23" href="$class_c_t_x.html#aac047221d3017c256420f03fd8811498" title=" " alt="" coords="509,507,612,533"/>
+<area shape="rect" id="node27" href="$class_msg.html#a77ecc7e0801b59f17485318e0408249c" title=" " alt="" coords="489,557,632,584"/>
+<area shape="rect" id="node19" href="$class_gmsh_socket.html#aa8c7d7e067e06ed1a54ea0c53f92dc51" title=" " alt="" coords="687,456,855,483"/>
+<area shape="rect" id="node20" href="$class_gmsh_socket.html#a9bb01871eac512fcc5502dd6bdd75540" title=" " alt="" coords="903,456,1089,483"/>
+<area shape="rect" id="node21" href="$class_gmsh_socket.html#acf719697a7572d9ad2003a5f3afd847d" title=" " alt="" coords="1137,405,1304,432"/>
+<area shape="rect" id="node22" href="$_camera_8cpp.html#a285f98c7080d4bdd2c6009b549df7984" title=" " alt="" coords="1192,456,1249,483"/>
+<area shape="rect" id="node24" href="$class_c_t_x.html#afb1b62b2c08d6fff6dd888585ac26760" title=" " alt="" coords="731,507,811,533"/>
+<area shape="rect" id="node25" href="$class_c_t_x.html#a055614dbfe1fbf2581a48450b55d738f" title=" " alt="" coords="961,507,1031,533"/>
+<area shape="rect" id="node26" href="$_o_s_8cpp.html#afab6ee9e04191413562ca21a42713920" title=" " alt="" coords="1153,507,1288,533"/>
+<area shape="rect" id="node28" href="$_o_s_8cpp.html#aa539d0fea7e3cd903f638a48790fe52e" title=" " alt="" coords="748,557,793,584"/>
+<area shape="rect" id="node30" href="$_o_s_8cpp.html#a2512743f552ad2bf91d820f6ee2eb5b7" title=" " alt="" coords="707,608,834,635"/>
+<area shape="rect" id="node31" href="$_o_s_8cpp.html#a99c5ab77eb7b0b334815f4fa8b3a8d03" title=" " alt="" coords="727,659,814,685"/>
+<area shape="rect" id="node29" href="$_o_s_8cpp.html#a4a897390b8d7b550f754a4bc993e2fee" title=" " alt="" coords="943,583,1049,609"/>
+<area shape="rect" id="node33" href="$class_g_entity.html#ac1683b7c3eadfad26821064c2930be11" title=" " alt="" coords="517,608,605,635"/>
+</map>

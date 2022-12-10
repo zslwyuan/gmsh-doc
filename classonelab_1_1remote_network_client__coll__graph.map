@@ -1,0 +1,6 @@
+<map id="onelab::remoteNetworkClient" name="onelab::remoteNetworkClient">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,193,197"/>
+<area shape="rect" id="node2" href="$classonelab_1_1client.html" title=" " alt="" coords="29,81,127,108"/>
+<area shape="rect" id="node3" href="$class_gmsh_client.html" title=" " alt="" coords="151,81,242,108"/>
+<area shape="rect" id="node4" href="$class_gmsh_socket.html" title=" " alt="" coords="147,5,246,32"/>
+</map>

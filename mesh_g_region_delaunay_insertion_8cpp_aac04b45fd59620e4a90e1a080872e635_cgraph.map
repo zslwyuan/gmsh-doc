@@ -1,0 +1,42 @@
+<map id="insertVertexB" name="insertVertexB">
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,105,361"/>
+<area shape="rect" id="node2" href="$mesh_g_region_delaunay_insertion_8cpp.html#a7971e2805b8fdaae9fcd15883975298c" title=" " alt="" coords="179,132,274,159"/>
+<area shape="rect" id="node3" href="$mesh_g_region_delaunay_insertion_8cpp.html#a68e6f2fa2ea92d082028deb24341367c" title=" " alt="" coords="155,183,299,209"/>
+<area shape="rect" id="node7" href="$class_m_tet4_factory.html#a96cbffd167aeb7d77ecfbe36508e7dbd" title=" " alt="" coords="153,284,300,311"/>
+<area shape="rect" id="node28" href="$_background_mesh_tools_8cpp.html#a796ab35ba41a432a8bf87e8954031375" title=" " alt="" coords="540,461,723,488"/>
+<area shape="rect" id="node34" href="$_m_vertex_8h.html#a2cacfd4bf029bbecbce67a32589afde7" title=" " alt="" coords="596,157,667,184"/>
+<area shape="rect" id="node35" href="$class_m_tet4_factory.html#ab35407b849a4cc226d9f26e920a47381" title=" " alt="" coords="159,385,294,412"/>
+<area shape="rect" id="node38" href="$class_m_tet4.html#ac6000866facc328135ad9c29ade171a6" title=" " alt="" coords="168,436,285,463"/>
+<area shape="rect" id="node39" href="$class_m_tet4.html#a07bafa646119e11548fe2fcf8c79f8f4" title=" " alt="" coords="172,487,281,513"/>
+<area shape="rect" id="node40" href="$class_m_tet4.html#ae3e06e9e20e15f7ac23e65974f3dedfe" title=" " alt="" coords="161,537,292,564"/>
+<area shape="rect" id="node4" href="$mesh_g_region_delaunay_insertion_8cpp.html#acb32459571f02011a8c42c7d0d47343b" title=" " alt="" coords="348,49,492,90"/>
+<area shape="rect" id="node5" href="$class_m_tet4.html#a2c2e2fc6680b13f010597726f0620bc2" title=" " alt="" coords="572,5,691,32"/>
+<area shape="rect" id="node6" href="$class_m_tet4.html#a104a2d74a878b5f6c2c4b1ae221a4fa4" title=" " alt="" coords="573,56,690,83"/>
+<area shape="rect" id="node8" href="$class_m_tet4.html#a697f4beeb270ebf317df1ca4383d1371" title=" " alt="" coords="371,284,469,311"/>
+<area shape="rect" id="node9" href="$class_m_tet4.html#a5fe37448deec2f4f5046af81a4492718" title=" " alt="" coords="561,360,701,387"/>
+<area shape="rect" id="node10" href="$class_m_tetrahedron.html#accec2d30b3743ec7c1a4f48f0ec4af1f" title=" " alt="" coords="771,411,933,437"/>
+<area shape="rect" id="node25" href="$class_m_vertex.html#a7300564b9dbc62c6064b6ab9ccdd357f" title=" " alt="" coords="811,309,893,336"/>
+<area shape="rect" id="node26" href="$class_m_vertex.html#a1d0b86aefb8c619be386a3f25509ea4d" title=" " alt="" coords="811,157,893,184"/>
+<area shape="rect" id="node27" href="$class_m_vertex.html#a407cf710a4d281a5d35174b04a865109" title=" " alt="" coords="811,259,893,285"/>
+<area shape="rect" id="node33" href="$class_m_vertex.html#aa3be529f844b87750234fc787e1117b4" title=" " alt="" coords="569,208,694,235"/>
+<area shape="rect" id="node11" href="$mesh_g_region_delaunay_insertion_8h.html#a26007f325241476426890b09f9a3dc7c" title=" " alt="" coords="796,360,908,387"/>
+<area shape="rect" id="node12" href="$discrete_frechet_distance_8cpp.html#aa783397e98bc2b10c9f8d6e83f7ec5e5" title=" " alt="" coords="1736,411,1775,437"/>
+<area shape="rect" id="node18" href="$namespacerobust_predicates.html#a1077d3815e1fb6e0e6ad7e76b30f84bc" title=" " alt="" coords="981,360,1153,387"/>
+<area shape="rect" id="node13" href="$discrete_frechet_distance_8cpp.html#a06823e12cb76f595f48c29d1a912c5b4" title=" " alt="" coords="1881,411,1952,437"/>
+<area shape="rect" id="node14" href="$class_s_point3.html#ad32ac4921cfdd8779bcf9fee158ff839" title=" " alt="" coords="2000,411,2123,437"/>
+<area shape="rect" id="node15" href="$class_s_point3.html#a829b1afa2492cb5ff5e9ededfc73ccd3" title=" " alt="" coords="2171,360,2251,387"/>
+<area shape="rect" id="node16" href="$class_s_point3.html#a7825d605d07475f59fc37d0c4bfe98f4" title=" " alt="" coords="2171,411,2251,437"/>
+<area shape="rect" id="node17" href="$class_s_point3.html#a3ab3d52e07fe1efb820872ce04845833" title=" " alt="" coords="2171,461,2251,488"/>
+<area shape="rect" id="node19" href="$namespacerobust_predicates.html#a4f141c72204d9f5da232c498a106b9d5" title=" " alt="" coords="1201,360,1405,387"/>
+<area shape="rect" id="node20" href="$namespacerobust_predicates.html#a7a1f438f470507a80a5e927c772c3a74" title=" " alt="" coords="1453,243,1629,269"/>
+<area shape="rect" id="node21" href="$namespacerobust_predicates.html#a220eed47d0f124062fa41a3774e7f87b" title=" " alt="" coords="1454,294,1629,335"/>
+<area shape="rect" id="node23" href="$namespacerobust_predicates.html#ae6a3e01f64496a8f0ef59e22feb7384f" title=" " alt="" coords="1463,462,1620,503"/>
+<area shape="rect" id="node24" href="$_trackball_8cpp.html#aaa7080ea4dc504343588e7b3107b6c38" title=" " alt="" coords="1509,360,1573,387"/>
+<area shape="rect" id="node22" href="$namespace_legendre_polynomials.html#a4676bbabf471d599ed4e455e6a27cac3" title=" " alt="" coords="1677,301,1833,328"/>
+<area shape="rect" id="node29" href="$class_c_t_x.html#aac047221d3017c256420f03fd8811498" title=" " alt="" coords="801,469,903,496"/>
+<area shape="rect" id="node30" href="$class_c_t_x.html#afb1b62b2c08d6fff6dd888585ac26760" title=" " alt="" coords="1027,503,1107,529"/>
+<area shape="rect" id="node31" href="$class_c_t_x.html#a055614dbfe1fbf2581a48450b55d738f" title=" " alt="" coords="1268,519,1339,545"/>
+<area shape="rect" id="node32" href="$_o_s_8cpp.html#afab6ee9e04191413562ca21a42713920" title=" " alt="" coords="1474,528,1609,555"/>
+<area shape="rect" id="node36" href="$class_m_tet4.html#aa45aa52ab7a33e21670720cf1f8e4373" title=" " alt="" coords="357,385,483,412"/>
+<area shape="rect" id="node37" href="$class_m_tet4.html#a522dcc6f5038404b9009ecf039582569" title=" " alt="" coords="380,436,460,463"/>
+</map>

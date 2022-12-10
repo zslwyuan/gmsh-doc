@@ -1,0 +1,5 @@
+<map id="RTree&lt; DATATYPE, ELEMTYPE, NUMDIMS, ELEMTYPEREAL, TMAXNODES, TMINNODES &gt;::Node" name="RTree&lt; DATATYPE, ELEMTYPE, NUMDIMS, ELEMTYPEREAL, TMAXNODES, TMINNODES &gt;::Node">
+<area shape="rect" id="node1" title="Node for each branch level." alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node2" href="$struct_r_tree_1_1_branch.html" title=" " alt="" coords="98,124,315,195"/>
+<area shape="rect" id="node3" href="$struct_r_tree_1_1_rect.html" title="Minimal bounding rectangle (n&#45;dimensional)" alt="" coords="273,5,511,61"/>
+</map>

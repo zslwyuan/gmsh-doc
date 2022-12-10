@@ -1,0 +1,48 @@
+<map id="src/mesh/delaunay3d.cpp" name="src/mesh/delaunay3d.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="769,5,938,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="151,603,211,629"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2019,80,2082,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1809,603,1849,629"/>
+<area shape="rect" id="node5" title=" " alt="" coords="753,229,807,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1603,603,1650,629"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1165,677,1224,704"/>
+<area shape="rect" id="node8" title=" " alt="" coords="245,379,320,405"/>
+<area shape="rect" id="node9" title=" " alt="" coords="392,677,451,704"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2106,80,2163,107"/>
+<area shape="rect" id="node11" href="$_s_point3_8h.html" title=" " alt="" coords="702,603,781,629"/>
+<area shape="rect" id="node13" href="$_s_bounding_box3d_8h.html" title=" " alt="" coords="397,453,528,480"/>
+<area shape="rect" id="node17" href="$_m_vertex_8h.html" title=" " alt="" coords="308,528,388,555"/>
+<area shape="rect" id="node21" href="$delaunay3d_8h.html" title=" " alt="" coords="2187,80,2285,107"/>
+<area shape="rect" id="node22" href="$_m_tetrahedron_8h.html" title=" " alt="" coords="565,229,677,256"/>
+<area shape="rect" id="node37" href="$mesh_g_region_local_mesh_mod_8h.html" title=" " alt="" coords="981,80,1184,107"/>
+<area shape="rect" id="node44" href="$robust_predicates_8h.html" title=" " alt="" coords="832,229,963,256"/>
+<area shape="rect" id="node45" href="$_context_8h.html" title=" " alt="" coords="1665,528,1741,555"/>
+<area shape="rect" id="node46" href="$_o_s_8h.html" title=" " alt="" coords="93,528,144,555"/>
+<area shape="rect" id="node12" title=" " alt="" coords="803,677,853,704"/>
+<area shape="rect" id="node14" title=" " alt="" coords="412,528,468,555"/>
+<area shape="rect" id="node15" href="$_s_vector3_8h.html" title=" " alt="" coords="690,528,777,555"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1430,603,1485,629"/>
+<area shape="rect" id="node18" title=" " alt="" coords="237,603,304,629"/>
+<area shape="rect" id="node19" href="$_s_point2_8h.html" title=" " alt="" coords="382,603,461,629"/>
+<area shape="rect" id="node20" href="$_m_vertex_boundary_layer_data_8h.html" title=" " alt="" coords="485,603,678,629"/>
+<area shape="rect" id="node23" href="$_m_element_8h.html" title=" " alt="" coords="581,304,672,331"/>
+<area shape="rect" id="node24" href="$_gmsh_message_8h.html" title=" " alt="" coords="1197,453,1317,480"/>
+<area shape="rect" id="node28" href="$_element_type_8h.html" title=" " alt="" coords="1432,453,1539,480"/>
+<area shape="rect" id="node29" href="$_m_edge_8h.html" title=" " alt="" coords="552,453,624,480"/>
+<area shape="rect" id="node31" href="$_m_face_8h.html" title=" " alt="" coords="767,379,839,405"/>
+<area shape="rect" id="node34" href="$_func_space_data_8h.html" title=" " alt="" coords="1197,379,1323,405"/>
+<area shape="rect" id="node36" href="$_gauss_integration_8h.html" title=" " alt="" coords="496,379,627,405"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1275,528,1336,555"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1055,528,1123,555"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1147,528,1250,555"/>
+<area shape="rect" id="node30" title=" " alt="" coords="543,528,615,555"/>
+<area shape="rect" id="node32" title=" " alt="" coords="699,453,778,480"/>
+<area shape="rect" id="node33" href="$_gmsh_defines_8h.html" title=" " alt="" coords="1062,453,1173,480"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1342,453,1407,480"/>
+<area shape="rect" id="node38" href="$mesh_g_region_delaunay_insertion_8h.html" title=" " alt="" coords="974,155,1191,181"/>
+<area shape="rect" id="node43" href="$quality_measures_8h.html" title=" " alt="" coords="1614,229,1741,256"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1121,229,1159,256"/>
+<area shape="rect" id="node40" href="$_numeric_8h.html" title=" " alt="" coords="905,453,986,480"/>
+<area shape="rect" id="node41" href="$_background_mesh_tools_8h.html" title=" " alt="" coords="1035,304,1200,331"/>
+<area shape="rect" id="node42" href="$_s_tensor3_8h.html" title=" " alt="" coords="1035,379,1123,405"/>
+</map>

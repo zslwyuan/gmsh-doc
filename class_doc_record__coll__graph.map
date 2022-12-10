@@ -1,0 +1,8 @@
+<map id="DocRecord" name="DocRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="93,187,180,213"/>
+<area shape="rect" id="node2" href="$struct_triangle.html" title=" " alt="" coords="5,97,73,124"/>
+<area shape="rect" id="node3" href="$struct_s_triangle.html" title=" " alt="" coords="98,97,175,124"/>
+<area shape="rect" id="node4" href="$struct_point_record.html" title=" " alt="" coords="201,97,294,124"/>
+<area shape="rect" id="node5" href="$struct_d_point.html" title=" " alt="" coords="178,7,239,33"/>
+<area shape="rect" id="node6" href="$struct_c_d_list.html" title=" " alt="" coords="264,7,327,33"/>
+</map>

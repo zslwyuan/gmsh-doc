@@ -1,0 +1,37 @@
+<map id="drawContext::drawImage" name="drawContext::drawImage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,317,169,344"/>
+<area shape="rect" id="node2" href="$class_g_model.html#a7d0a169ab09e097dffffea4ba8df6393" title=" " alt="" coords="257,157,371,184"/>
+<area shape="rect" id="node3" href="$class_msg.html#a93c6f0edcb3a0fa5210dd4838ab23eb7" title=" " alt="" coords="473,208,563,235"/>
+<area shape="rect" id="node18" href="$namespace_legendre_polynomials.html#a4676bbabf471d599ed4e455e6a27cac3" title=" " alt="" coords="236,427,392,453"/>
+<area shape="rect" id="node19" href="$_string_utils_8cpp.html#a70bc075f102b9bcc7cb792136cc027e7" title=" " alt="" coords="257,376,371,403"/>
+<area shape="rect" id="node21" href="$classdraw_context.html#ab5caf1980353b5f6baf20862c0fb7115" title=" " alt="" coords="217,310,411,351"/>
+<area shape="rect" id="node33" href="$classdraw_context.html#a517949691f92224711818520e7ef9ea4" title=" " alt="" coords="221,478,407,519"/>
+<area shape="rect" id="node34" href="$class_msg.html#ac92808e8ab6f2c94ddc75775aefa002d" title=" " alt="" coords="468,259,568,285"/>
+<area shape="rect" id="node15" href="$class_g_model.html#a27c8b5cf5ac0d8dc9bd25dcc67b607f8" title=" " alt="" coords="459,107,577,133"/>
+<area shape="rect" id="node4" href="$class_msg.html#a5fa4bbe64f98f5626ea1be8b97a533fb" title=" " alt="" coords="647,259,790,285"/>
+<area shape="rect" id="node5" href="$class_msg.html#ac471037b7525047b26c80aeff6c32553" title=" " alt="" coords="655,208,783,235"/>
+<area shape="rect" id="node6" href="$class_gmsh_socket.html#a31130525b8b43fc7b1afb35b6007c93a" title=" " alt="" coords="655,107,782,133"/>
+<area shape="rect" id="node11" href="$class_c_t_x.html#aac047221d3017c256420f03fd8811498" title=" " alt="" coords="667,157,770,184"/>
+<area shape="rect" id="node7" href="$class_gmsh_socket.html#aa8c7d7e067e06ed1a54ea0c53f92dc51" title=" " alt="" coords="860,309,1028,336"/>
+<area shape="rect" id="node8" href="$class_gmsh_socket.html#a9bb01871eac512fcc5502dd6bdd75540" title=" " alt="" coords="1076,309,1263,336"/>
+<area shape="rect" id="node9" href="$class_gmsh_socket.html#acf719697a7572d9ad2003a5f3afd847d" title=" " alt="" coords="1311,335,1477,361"/>
+<area shape="rect" id="node10" href="$_camera_8cpp.html#a285f98c7080d4bdd2c6009b549df7984" title=" " alt="" coords="1365,284,1423,311"/>
+<area shape="rect" id="node12" href="$class_c_t_x.html#afb1b62b2c08d6fff6dd888585ac26760" title=" " alt="" coords="904,157,984,184"/>
+<area shape="rect" id="node13" href="$class_c_t_x.html#a055614dbfe1fbf2581a48450b55d738f" title=" " alt="" coords="1134,157,1205,184"/>
+<area shape="rect" id="node14" href="$_o_s_8cpp.html#afab6ee9e04191413562ca21a42713920" title=" " alt="" coords="1327,157,1461,184"/>
+<area shape="rect" id="node16" href="$class_g_model.html#a02bd8339dbc26d529850105b78a10c02" title=" " alt="" coords="625,56,812,83"/>
+<area shape="rect" id="node17" href="$class_g_model.html#af970b8de9de912a8cd693b5850561a9e" title=" " alt="" coords="649,5,788,32"/>
+<area shape="rect" id="node20" href="$_string_utils_8cpp.html#a5f40d190b0b2a80862b5737c7a756e7a" title=" " alt="" coords="466,411,570,437"/>
+<area shape="rect" id="node22" href="$class_msg.html#a75882ad58cab9c206608da67fa233afc" title=" " alt="" coords="478,309,558,336"/>
+<area shape="rect" id="node32" href="$_o_s_8cpp.html#a5c007b2c9770f5758a62535325089fac" title=" " alt="" coords="485,360,551,387"/>
+<area shape="rect" id="node23" href="$class_gmsh_socket.html#a99f7d0726784a434e712a01d36adeeaa" title=" " alt="" coords="653,461,784,488"/>
+<area shape="rect" id="node24" href="$class_msg.html#afd6f56325baa00bcfd21f33356d9450a" title=" " alt="" coords="681,512,756,539"/>
+<area shape="rect" id="node30" href="$_gmsh_message_8cpp.html#a238ebef3b9412b039f35c09aa806c7da" title=" " alt="" coords="671,411,766,437"/>
+<area shape="rect" id="node31" href="$_gmsh_message_8cpp.html#ae052714b662d6685793db87f791880a5" title=" " alt="" coords="663,360,774,387"/>
+<area shape="rect" id="node25" href="$class_msg.html#a218f357353c68291b7e4da30b04473a0" title=" " alt="" coords="895,512,993,539"/>
+<area shape="rect" id="node26" href="$class_msg.html#abbbae30adb6f1a83c758e95d39f805de" title=" " alt="" coords="1100,512,1239,539"/>
+<area shape="rect" id="node27" href="$classonelab_1_1server.html#ad29319c039ca46af89520c91300de269" title=" " alt="" coords="1315,537,1473,564"/>
+<area shape="rect" id="node29" href="$classonelab_1_1server.html#a8d7ca4d8373708330a53278ef451033e" title=" " alt="" coords="1313,487,1475,513"/>
+<area shape="rect" id="node28" href="$classonelab_1_1server.html#a7df2e42b65022f486f5d5dc49576c6f7" title=" " alt="" coords="1525,537,1669,564"/>
+<area shape="rect" id="node35" href="$class_gmsh_socket.html#a844b69d2644d6d35622f869cb1350cf1" title=" " alt="" coords="643,309,794,336"/>
+</map>

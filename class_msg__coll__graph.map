@@ -1,0 +1,6 @@
+<map id="Msg" name="Msg">
+<area shape="rect" id="node1" title=" " alt="" coords="81,171,128,197"/>
+<area shape="rect" id="node2" href="$class_gmsh_message.html" title=" " alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node3" href="$class_gmsh_client.html" title=" " alt="" coords="141,81,231,108"/>
+<area shape="rect" id="node4" href="$class_gmsh_socket.html" title=" " alt="" coords="137,5,235,32"/>
+</map>

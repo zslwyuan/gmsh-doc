@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$ \mathcal B_{ijk} = \mathcal P_i \left(\frac{\xi }{1-\zeta}\right) \mathcal P_j \left(\frac{\eta}{1-\zeta}\right) \left(1-\zeta\right)^{max(i,j)} \mathcal P^{2 max(i,j),0}_k \left(2 \zeta -1\right)~|~i,j \leq p, k \leq p - max(i,j) $
+\pagebreak
+
+$ \mu_{ijk} = \left(\frac{\xi }{1-\zeta}\right)^i \left(\frac{\eta}{1-\zeta}\right)^j \left(1-\zeta\right)^{max(i,j)} \zeta^k~|~i,j \leq p~,~k \leq p-max(i,j) $
+\pagebreak
+
+\end{document}
